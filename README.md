@@ -11,7 +11,7 @@ I am a Bachelor of Science Electronics Engineering Graduate at Rizal Technologic
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as an Analyst or as a Penetration Tester.
 
 ## Skills
-
+[All still are samples]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -23,7 +23,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-
+[All still are samples]
 
 ### Network
 <div>
