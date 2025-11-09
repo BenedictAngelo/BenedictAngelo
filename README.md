@@ -58,11 +58,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Blue Team
 <div>
-    -sample
+    <a href="Projects/Blue-Team/readme.md">sample</a>
 </div>
 
 ### Red Team
 <div>
-    -sample
+    <a href="Projects/Red-Team/readme.md">sample</a>
 </div>
 
