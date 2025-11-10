@@ -8,7 +8,7 @@ I am a Bachelor of Science Electronics Engineering Graduate at Rizal Technologic
 ## Objective
 
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to commit into this field and build my career into this field, now specifically aiming to join a Security Operations Center (SOC) as an Analyst or as a Penetration Tester.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to commit and build my career into this field, now specifically aiming to join a Security Operations Center (SOC) as an Analyst or as a Penetration Tester.
 
 ## Skills
 [All still are samples]
@@ -48,7 +48,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 [Click to Redirect for URL proof]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
 <a href="https://www.coursera.org/account/accomplishments/specialization/RSH0GAIXL5L5"><img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
 <a href="https://www.coursera.org/account/accomplishments/professional-cert/4TKT8T1GCFMN"><img src="https://img.shields.io/badge/-IBM%20Ethical%20Hacking%20with%20Open%20Source%20Tools-006699?style=for-the-badge&logo=ibm&logoColor=white" /></a>
 
@@ -56,17 +56,31 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 
-### Blue Team
+### TryHackMe
 <div>
     <ul>
-    <li><a href="Projects/Blue-Team/readme.md">sample</a></li>
+    <li><a href="Projects/TryHackMe/readme.md">sample</a></li>
     </ul>
 </div>
 
-### Red Team
+### IT Projects
 <div>
     <ul>
-    <li><a href="Projects/Red-Team/readme.md">sample</a></li>
+    <li><a href="Projects/IT-Projects/readme.md">sample</a></li>
+    </ul>
+</div>
+
+### Coding Exercises
+<div>
+    <ul>
+    <li><a href="Projects/Coding-Exercises/readme.md">sample</a></li>
+    </ul>
+</div>
+
+### Report Templates
+<div>
+    <ul>
+    <li><a href="Projects/Report-Templates/readme.md">sample</a></li>
     </ul>
 </div>
 
