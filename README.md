@@ -57,6 +57,17 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 
 ### TryHackMe
+<details>
+  <summary>Learning Path Labs</summary>
+<div>
+    <ul>
+        <ul>
+        <li><a href="Projects/TryHackMe/Learning-Path-Labs/readme.md">sample</a></li>
+        </ul>
+    </ul>
+</div>
+</details>
+
 <div>
     <ul>
     <li><a href="Projects/TryHackMe/readme.md">sample</a></li>
