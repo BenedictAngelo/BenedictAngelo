@@ -1,5 +1,7 @@
 # Hello, I'm Benedict Angelo A. Bumatay
-<a href="https://www.linkedin.com/in/benedict-angelo-a-bumatay/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/benedict-angelo-a-bumatay/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://tryhackme.com/p/benedictangeloaguirre2" target="_blank">
+  <img src="https://img.shields.io/badge/-TryHackMe-BD2323?&style=for-the-badge&logo=tryhackme&logoColor=white" />
+</a>
 
 
 
@@ -67,12 +69,16 @@ My journey in computer science has led me to develop a passion for cybersecurity
     </ul>
 </div>
 </details>
-
+<details>
+  <summary>Capture the Flags</summary>
 <div>
     <ul>
-    <li><a href="Projects/TryHackMe/readme.md">sample</a></li>
+        <ul>
+        <li><a href="Projects/TryHackMe/CTF/readme.md">sample</a></li>
+        </ul>
     </ul>
 </div>
+</details>
 
 ### IT Projects
 <div>
