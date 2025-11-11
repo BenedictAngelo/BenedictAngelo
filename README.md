@@ -5,12 +5,12 @@
 
 
 
-I am a Bachelor of Science Electronics Engineering Graduate at Rizal Technological University, with a growing passion and actively learning Cyber security.
+I am a Bachelor of Science Electronics Engineering Graduate at Rizal Technological University, with a growing passion and actively learning Cybersecurity.
 
 ## Objective
 
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to commit and build my career into this field, now specifically aiming to join a Security Operations Center (SOC) as an Analyst or as a Penetration Tester.
+My journey in computer science has led me to develop a passion for Cybersecurity, and I am now eager to commit and build my career into this field, now specifically aiming to join a Security Operations Center (SOC) as an Analyst or as a Penetration Tester.
 
 ## Skills
 
@@ -92,7 +92,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Report Templates
 <div>
     <ul>
-    <li>Still ongoing</a></li>
+    <li><a href="Projects/Report-Templates/Penetration-Testing.md">Penetration Testing Report Template</a></li>
     </ul>
 </div>
 
