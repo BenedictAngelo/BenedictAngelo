@@ -9,7 +9,6 @@ The Virtual Mini Home Lab project is aimed to establish and create my very first
 
 
 - Virtual machine set up.
-- Attacker Mindset.
 - Linux environment familiarity and understanding.
 - Home Labbing.
 - Unix programming.
