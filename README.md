@@ -13,38 +13,25 @@ I am a Bachelor of Science Electronics Engineering Graduate at Rizal Technologic
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to commit and build my career into this field, now specifically aiming to join a Security Operations Center (SOC) as an Analyst or as a Penetration Tester.
 
 ## Skills
-[All still are samples]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Setting up a small virtual home lab                         | <a href="Projects/IT-Projects/Mini-Homelab">Mini Home Lab</a>|
+
 
 ## Tools
-[All still are samples]
 
-### Network
+### Operating Systems
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CachyOS-1793D1?&style=for-the-badge&logo=archlinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Parrot%20OS-15E0A5?&style=for-the-badge&logo=parrotsecurity&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux%20Mint-87CF3E?&style=for-the-badge&logo=linuxmint&logoColor=white" />
 </div>
 
-### Endpoint
+### Virtual Machines
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
 </div>
 
 ## Certifications
@@ -58,13 +45,27 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 
+### IT Projects
+<div>
+    <ul>
+    <li><a href="Projects/IT-Projects/Mini-Homelab.md">Virtual Mini Homelab</a></li>
+    </ul>
+</div>
+
+### Coding Exercises
+<div>
+    <ul>
+    <li>Still ongoing</a></li>
+    </ul>
+</div>
+
 ### TryHackMe
 <details>
   <summary>Learning Path Labs</summary>
 <div>
     <ul>
         <ul>
-        <li><a href="Projects/TryHackMe/Learning-Path-Labs/readme.md">sample</a></li>
+        <li>Still ongoing</li>
         </ul>
     </ul>
 </div>
@@ -74,30 +75,17 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
     <ul>
         <ul>
-        <li><a href="Projects/TryHackMe/CTF/readme.md">sample</a></li>
+        <li>Still ongoing</a></li>
         </ul>
     </ul>
 </div>
 </details>
 
-### IT Projects
-<div>
-    <ul>
-    <li><a href="Projects/IT-Projects/readme.md">sample</a></li>
-    </ul>
-</div>
-
-### Coding Exercises
-<div>
-    <ul>
-    <li><a href="Projects/Coding-Exercises/readme.md">sample</a></li>
-    </ul>
-</div>
 
 ### Report Templates
 <div>
     <ul>
-    <li><a href="Projects/Report-Templates/readme.md">sample</a></li>
+    <li>Still ongoing</a></li>
     </ul>
 </div>
 
