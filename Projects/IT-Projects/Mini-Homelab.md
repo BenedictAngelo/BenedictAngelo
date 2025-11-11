@@ -8,19 +8,20 @@ The Virtual Mini Home Lab project is aimed to establish and create my very first
 ### Skills Learned
 
 
-- Virtual machine set up
-- Attacker Mindset
-- Linux environment familiarity and understanding
-- Home Labbing
+- Virtual machine set up.
+- Attacker Mindset.
+- Linux environment familiarity and understanding.
+- Home Labbing.
+- Unix programming.
 
 
 ### Tools Used
 
-- Virtual Box
-- Cachy OS (My main OS)
-- Kali Linux for standard penetration testing OS
-- Parrot security OS for lightweight and stable penetration testing OS
-- Linux mint OS to simulate a vulnerable victim OS
+- Virtual Box.
+- Cachy OS (My main OS).
+- Kali Linux OS for standard Penetration testing use.
+- Parrot security OS for lightweight and stable Penetration testing/Digital Forensic use.
+- Linux mint OS to simulate a vulnerable victim OS.
 
 ## Steps
 ### 1.  Install Virtual box in my main OS
@@ -72,15 +73,38 @@ The Virtual Mini Home Lab project is aimed to establish and create my very first
 
 <img width="1914" height="1033" alt="screenshot_11112025_210038" src="https://github.com/user-attachments/assets/d91feecb-6036-4be6-9b37-7d8211fabab2" />
 
-- I allocated less resources for Linux Mint with just 3GB ram, 2 CPU cores, 64 MB of video memory 25GB of virtual storage
+- I allocated less resources for Linux Mint with just 3GB ram, 2 CPU cores, 64 MB of video memory 25GB of virtual storage.
 
-### 8.  Startup and fresh boot of all OS.
+### 8.  Startup and fresh boot of Kali Linux.
 
 <img width="1359" height="1026" alt="screenshot_11112025_210920" src="https://github.com/user-attachments/assets/292ec705-9fdc-4bd8-90b7-0c1eeea7f840" />
 
 -I start Kali Linux, boot from grub, then entered default credentials user:kali pass:kali, then opened terminal to initiate "sudo apt update" to fetch updates and "sudo apt upgrade" to start the system and package upgrades.
 
+<img width="1356" height="1027" alt="screenshot_11112025_212133" src="https://github.com/user-attachments/assets/b00c7fec-0d71-47f8-a265-5443afa6b3e0" />
 
+-  After updates, I cleaned the system for leftover files and to delete orphaned packages.
+
+<img width="647" height="519" alt="screenshot_11112025_213413" src="https://github.com/user-attachments/assets/4aca3202-1428-4dbe-baa7-5e53acfc6bd8" />
+
+-  Installed an Uncomplicated firewall.
+
+<img width="653" height="517" alt="screenshot_11112025_214210" src="https://github.com/user-attachments/assets/36feef93-9b43-41aa-9409-a49fafe71504" />
+
+- To enable it on startup.
+
+<img width="652" height="518" alt="screenshot_11112025_214543" src="https://github.com/user-attachments/assets/ca952fce-616c-4888-956a-a5fb036a7a43" />
+
+-  Set up default rules.
+
+<img width="646" height="513" alt="screenshot_11112025_214749" src="https://github.com/user-attachments/assets/39f1e939-746c-4436-afc1-076ab2348c95" />
+
+-  Now enable the firewall and checked its status.
+
+### 9.  Do the exact same procedure on a fresh boot Parrot OS using default user:parrot pass:parrot
+### 10. Do the exact same procedure on a fresh boot Linux Mint and setting up custom user:victim pass:victim, for easy target labeling, and  not setting up a firewall, to simulate unfiltered connection and to add vulnerabilty for another attack vector.
+
+#  END
 
 
 
