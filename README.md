@@ -16,7 +16,7 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Setting up a small virtual home lab                         | <a href="Projects/IT-Projects/Mini-Homelab">Mini Home Lab</a>|
+| Setting up a small virtual home lab                         | <a href="Projects/IT-Projects/Mini-Homelab.md">Mini Home Lab</a>|
 
 
 ## Tools
