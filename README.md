@@ -34,6 +34,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
 </div>
 
+### Programming / Scripting
+<div>
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Shell-FFD500?&style=for-the-badge&logo=gnu&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Unix-333333?&style=for-the-badge&logo=unix&logoColor=white" />
+</div>
+
 ## Certifications
 [Click to Redirect for URL proof]
 <div>
