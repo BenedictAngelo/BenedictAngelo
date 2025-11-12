@@ -96,8 +96,9 @@ My journey in computer science has led me to develop a passion for Cybersecurity
     </ul>
 </div>
 
-## Notes
 ---
+## Notes
+
 <div>
     <ul>
 	    <li><a href="Notes/Daily Drive Cheat Sheet.md">Daily Drive Cheat Sheet</a></li>
