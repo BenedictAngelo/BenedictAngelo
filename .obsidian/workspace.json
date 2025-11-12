@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -227,7 +227,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "44bb9446e5fea5b8",
+  "active": "166b5fdbbe36720c",
   "lastOpenFiles": [
     "README.md",
     "Image dump/Mini Home Lab/readme.md",
