@@ -12,6 +12,7 @@ sudo pacman -Syu
 ```
 
 - For Arch packager
+---
 
 ```
 sudo apt autoclean && supo apt autoremove
@@ -26,6 +27,7 @@ paru -c
 ```
 
 - ==sudo pacman -Rns $(pacman -Qdtq)== Cleans orphaned packages in Arch packager, run ==pacman -Qdtq== first to check orphaned packages, ==paru -c== optional for cleaning AUR cache
+---
 
 ```
 ps aux | grep [The name of the program]
