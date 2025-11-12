@@ -16,7 +16,8 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Setting up a small virtual home lab                         | <a href="Projects/IT Projects/Mini Homelab.md">Mini Home Lab</a>|
+| HTML and structured documentation           | My whole GitHub|
+| Setting up a small virtual home lab           | <a href="Projects/IT Projects/Mini Homelab.md">Mini Home Lab</a>|
 
 
 ## Tools
@@ -38,7 +39,7 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 <div>
     <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white" />
     <img src="https://img.shields.io/badge/-Shell-FFD500?&style=for-the-badge&logo=gnu&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Unix-333333?&style=for-the-badge&logo=unix&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
 </div>
 
 ## Certifications
