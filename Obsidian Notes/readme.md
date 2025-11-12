@@ -1,0 +1,1 @@
+# Reports and Notes created in Obsidian Notes

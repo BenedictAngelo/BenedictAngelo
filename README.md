@@ -16,7 +16,7 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Setting up a small virtual home lab                         | <a href="Projects/IT-Projects/Mini-Homelab.md">Mini Home Lab</a>|
+| Setting up a small virtual home lab                         | <a href="Projects/IT Projects/Mini Homelab.md">Mini Home Lab</a>|
 
 
 ## Tools
@@ -55,14 +55,7 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 ### IT Projects
 <div>
     <ul>
-    <li><a href="Projects/IT-Projects/Mini-Homelab.md">Virtual Mini Homelab</a></li>
-    </ul>
-</div>
-
-### Coding Exercises
-<div>
-    <ul>
-    <li>Still ongoing</a></li>
+    <li><a href="Projects/IT Projects/Mini Homelab.md">Virtual Mini Homelab</a></li>
     </ul>
 </div>
 
@@ -88,11 +81,27 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 </div>
 </details>
 
+### Coding Exercises
+<div>
+    <ul>
+    <li>Still ongoing</a></li>
+    </ul>
+</div>
+
+## Obsidian Notes
+
+### TryHackMe Note Dump
+<div>
+    <ul>
+    <li><a href="Obsidian Notes/TryHackMe Note Dump/Penetration Testing Notes.md">Penetration Testing Report Notes</a></li>
+    </ul>
+</div>
+
 
 ### Report Templates
 <div>
     <ul>
-    <li><a href="Projects/Report-Templates/Penetration-Testing.md">Penetration Testing Report Template</a></li>
+    <li><a href="Obsidian Notes/Report Templates/Penetration Testing.md">Penetration Testing Report Template</a></li>
     </ul>
 </div>
 
