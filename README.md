@@ -89,20 +89,5 @@ My journey in computer science has led me to develop a passion for Cybersecurity
     </ul>
 </div>
 
-## Obsidian Notes
 
-### TryHackMe Note Dump
-<div>
-    <ul>
-    <li><a href="Obsidian Notes/TryHackMe Note Dump/Penetration Testing Notes.md">Penetration Testing Notes</a></li>
-    </ul>
-</div>
-
-
-### Report Templates
-<div>
-    <ul>
-    <li><a href="Obsidian Notes/Report Templates/Penetration Testing.md">Penetration Testing Report Template</a></li>
-    </ul>
-</div>
 
