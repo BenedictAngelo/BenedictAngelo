@@ -103,6 +103,8 @@ The Virtual Mini Home Lab project is aimed to establish and create my very first
 ### 9.  Do the exact same procedure on a fresh boot Parrot OS using default user:parrot pass:parrot
 ### 10. Do the exact same procedure on a fresh boot Linux Mint and setting up custom user:victim pass:victim, for easy target labeling, and  not setting up a firewall, to simulate unfiltered connection and to add vulnerabilty for another attack vector.
 
+
+
 #  END
 
 
