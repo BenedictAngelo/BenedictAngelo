@@ -16,7 +16,7 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| HTML and structured documentation           | My whole GitHub|
+| HTML and structured documentation             | My whole GitHub|
 | Setting up a small virtual home lab           | <a href="Projects/IT Projects/Mini Homelab.md">Mini Home Lab</a>|
 
 
