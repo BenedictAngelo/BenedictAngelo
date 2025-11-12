@@ -1,4 +1,5 @@
 # Hello, I'm Benedict Angelo A. Bumatay
+---
 <a href="https://www.linkedin.com/in/benedict-angelo-a-bumatay/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://tryhackme.com/p/benedictangeloaguirre2" target="_blank">
   <img src="https://img.shields.io/badge/-TryHackMe-BD2323?&style=for-the-badge&logo=tryhackme&logoColor=white" />
 </a>
