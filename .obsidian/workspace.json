@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Untitled.md",
+                "file": "Notes/Daily Drive Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Daily Drive Cheat Sheet"
             }
           }
         ]
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Untitled.md",
+                "file": "Notes/Daily Drive Cheat Sheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Daily Drive Cheat Sheet"
             }
           },
           {
@@ -230,7 +230,7 @@
   "active": "888a6b0de48874cf",
   "lastOpenFiles": [
     "README.md",
-    "Notes/Untitled.md",
+    "Notes/Daily Drive Cheat Sheet.md",
     "Notes",
     "Image dump/Mini Home Lab/readme.md",
     "Terminal Cheat Sheet.md",
