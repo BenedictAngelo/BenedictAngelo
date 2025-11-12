@@ -66,17 +66,18 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 <div>
     <ul>
         <ul>
-        <li>Still ongoing</li>
+            <li>Still ongoing</li>
         </ul>
     </ul>
 </div>
 </details>
+
 <details>
   <summary>Capture the Flags</summary>
 <div>
     <ul>
         <ul>
-        <li>Still ongoing</a></li>
+            <li>Still ongoing</a></li>
         </ul>
     </ul>
 </div>
@@ -85,7 +86,7 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 ### Coding Exercises
 <div>
     <ul>
-    <li>Still ongoing</a></li>
+        <li>Still ongoing</a></li>
     </ul>
 </div>
 
