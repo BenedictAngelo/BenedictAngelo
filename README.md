@@ -10,20 +10,21 @@ I am a Bachelor of Science Electronics Engineering Graduate at Rizal Technologic
 
 ---
 ## Objective
----
+
 
 My journey in computer science has led me to develop a passion for Cybersecurity, and I am now eager to commit and build my career into this field, now specifically aiming to join a Security Operations Center (SOC) as an Analyst or as a Penetration Tester.
 
-## Skills
 ---
+## Skills
+
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | HTML and structured documentation             | My whole GitHub|
 | Setting up a small virtual home lab           | <a href="Projects/IT Projects/Mini Homelab.md">Mini Home Lab</a>|
 
-
-## Tools
 ---
+## Tools
+
 ### Operating Systems
 <div>
     <img src="https://img.shields.io/badge/-CachyOS-1793D1?&style=for-the-badge&logo=archlinux&logoColor=white" />
@@ -44,8 +45,9 @@ My journey in computer science has led me to develop a passion for Cybersecurity
     <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
 </div>
 
-## Certifications
 ---
+## Certifications
+
 [Click to Redirect for URL proof]
 <div>
 
@@ -54,8 +56,9 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 
 </div>
 
-## Projects
 ---
+# Projects
+
 ### IT Projects
 <div>
     <ul>
