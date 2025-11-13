@@ -102,6 +102,7 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 <div>
     <ul>
 	    <li><a href="Notes/Daily Drive Cheat Sheet.md">Daily Drive Cheat Sheet</a></li>
+	    <li><a href="Notes/TryHackMe Notes.md">TryHackMe Notes</a></li>
     </ul>
 </div>
 
