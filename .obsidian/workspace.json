@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily Drive Cheat Sheet.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Daily Drive Cheat Sheet"
+              "title": "README"
             }
           }
         ],
@@ -258,14 +258,23 @@
   },
   "active": "4f84d15dec048bb9",
   "lastOpenFiles": [
+    "Projects/Coding-Exercises/firstjavaproject/target/classes/com/example/Main.class",
+    "Projects/Coding-Exercises/firstjavaproject/target/classes/com/example",
+    "Projects/Coding-Exercises/firstjavaproject/target/classes/com",
+    "Projects/Coding-Exercises/firstjavaproject/target/test-classes",
+    "Projects/Coding-Exercises/firstjavaproject/target/classes",
+    "Projects/Coding-Exercises/firstjavaproject/target",
+    "Projects/Coding-Exercises/firstjavaproject/src/main/java/com/example/Main.java",
+    "Projects/Coding-Exercises/firstjavaproject/src/main/java/com/example",
+    "Projects/Coding-Exercises/firstjavaproject/src/main/java/com",
+    "Projects/Coding-Exercises/firstjavaproject/src/test/java",
+    "Projects/Coding-Exercises/firstjavaproject/src/main/resources",
+    "Notes/Linux Cheat Sheet.md",
     "Notes/TryHackMe Notes.md",
-    "Notes/Daily Drive Cheat Sheet.md",
     "README.md",
-    "Notes",
     "Image dump/Mini Home Lab/readme.md",
     "Terminal Cheat Sheet.md",
     "Terminal Cheat Sheet/Untitled.md",
-    "Terminal Cheat Sheet",
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
@@ -278,8 +287,6 @@
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts",
-    "copilot"
+    "copilot/copilot-custom-prompts/Translate to Chinese.md"
   ]
 }
