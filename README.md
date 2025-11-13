@@ -89,10 +89,10 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 </div>
 </details>
 
-### Coding Exercises
+### Coding Projects
 <div>
     <ul>
-        <li>Still ongoing</a></li>
+        <li><a href="Projects/Coding Projects/firstjavaproject/src/main/java/com/example/Main.java">First Java Project</a></a></li>
     </ul>
 </div>
 
