@@ -41,15 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Linux Cheat Sheet.md",
+                "file": "Notes/Learning Windows OS.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Linux Cheat Sheet"
+              "title": "Learning Windows OS"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "74c92128267aa9aa",
@@ -68,8 +69,51 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "9461b89f7b941f74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/TryHackMe Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TryHackMe Notes"
+            }
+          },
+          {
+            "id": "15494ce23e2cbfb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Linux Cheat Sheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux Cheat Sheet"
+            }
+          },
+          {
+            "id": "a9e659615a80b3b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Learning Windows OS.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Learning Windows OS"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -275,9 +319,84 @@
       "graph:Open graph view": false
     }
   },
-  "active": "523f222345a00ede",
+  "floating": {
+    "id": "6719d1efe5d154fc",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b8139ea5c6938929",
+        "type": "window",
+        "children": [
+          {
+            "id": "fcc7b3c3b9a5338b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "79f3c415ae1136d4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Learning Windows OS.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Learning Windows OS"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1035,
+        "maximize": true,
+        "zoom": 0
+      },
+      {
+        "id": "4f97d5fded99dfd3",
+        "type": "window",
+        "children": [
+          {
+            "id": "f5541e5ab5da27e0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e89eb015c7e62b08",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Learning Windows OS.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Learning Windows OS"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1035,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "4f84d15dec048bb9",
   "lastOpenFiles": [
+    "Image dump/CV.pdf",
+    "Notes/Learning Windows OS.md",
     "Notes/Linux Cheat Sheet.md",
+    "Notes/TryHackMe Notes.md",
     "README.md",
     "Projects/Coding Projects/firstjavaproject/src/main/java/com/example/Main.java",
     "Projects/Coding Projects/firstjavaproject/target/classes/com/example/Main.class",
@@ -290,7 +409,6 @@
     "Projects/Coding Projects/firstjavaproject/src/main/java",
     "Projects/Coding Projects/firstjavaproject/target/test-classes",
     "Projects/Coding Projects/readme.md",
-    "Notes/TryHackMe Notes.md",
     "Image dump/Mini Home Lab/readme.md",
     "Terminal Cheat Sheet.md",
     "Terminal Cheat Sheet/Untitled.md",

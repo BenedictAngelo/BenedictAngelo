@@ -8,6 +8,8 @@
 
 I am a Bachelor of Science Electronics Engineering Graduate at Rizal Technological University, with a growing passion and actively learning Cybersecurity.
 
+<a href="Image dump/CV.pdf">Click to view my CV here</a>
+
 ---
 ## Objective
 
