@@ -100,14 +100,16 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 </div>
 
 ---
-## Notes
-
+<details>
+<summary><h2>Notes</h2></summary>
 <div>
-    <ul>
+	  <ul>
 	    <li><a href="Notes/Linux Cheat Sheet.md">Linux Cheat Sheet</a></li>
 	    <li><a href="Notes/TryHackMe Notes.md">TryHackMe Notes</a></li>
-    </ul>
+	    <li><a href="Notes/Learning Windows OS.md">Windows OS Notes</a></li>
+	  </ul>
 </div>
+</details>
 
 
 

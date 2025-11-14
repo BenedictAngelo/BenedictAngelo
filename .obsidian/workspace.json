@@ -49,8 +49,7 @@
               "title": "Learning Windows OS"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "74c92128267aa9aa",
@@ -112,8 +111,7 @@
               "title": "Learning Windows OS"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -391,10 +389,10 @@
       }
     ]
   },
-  "active": "4f84d15dec048bb9",
+  "active": "523f222345a00ede",
   "lastOpenFiles": [
-    "Image dump/CV.pdf",
     "Notes/Learning Windows OS.md",
+    "Image dump/CV.pdf",
     "Notes/Linux Cheat Sheet.md",
     "Notes/TryHackMe Notes.md",
     "README.md",
@@ -407,7 +405,6 @@
     "Projects/Coding Projects/firstjavaproject/src/test/java",
     "Projects/Coding Projects/firstjavaproject/src/main/resources",
     "Projects/Coding Projects/firstjavaproject/src/main/java",
-    "Projects/Coding Projects/firstjavaproject/target/test-classes",
     "Projects/Coding Projects/readme.md",
     "Image dump/Mini Home Lab/readme.md",
     "Terminal Cheat Sheet.md",
