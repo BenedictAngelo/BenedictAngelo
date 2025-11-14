@@ -43,6 +43,7 @@ My journey in computer science has led me to develop a passion for Cybersecurity
     <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white" />
     <img src="https://img.shields.io/badge/-Shell-FFD500?&style=for-the-badge&logo=gnu&logoColor=black" />
     <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>
 
 ---
@@ -92,7 +93,7 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 ### Coding Projects
 <div>
     <ul>
-        <li><a href="Projects/Coding Projects/firstjavaproject/src/main/java/com/example/Main.java">First Java Project</a></a></li>
+        <li><a href="Projects/Coding Projects/firstjavaproject/src/main/java/com/example/Main.java">Basics of Java</a></a></li>
     </ul>
 </div>
 

@@ -41,16 +41,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Notes/Linux Cheat Sheet.md",
                 "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Linux Cheat Sheet"
+            }
+          }
+        ]
+      },
+      {
+        "id": "74c92128267aa9aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "523f222345a00ede",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "README"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,8 +275,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "fdea9aea4d1526dd",
+  "active": "523f222345a00ede",
   "lastOpenFiles": [
+    "Notes/Linux Cheat Sheet.md",
+    "README.md",
     "Projects/Coding Projects/firstjavaproject/src/main/java/com/example/Main.java",
     "Projects/Coding Projects/firstjavaproject/target/classes/com/example/Main.class",
     "Projects/Coding Projects/firstjavaproject/src/main/java/com/example",
@@ -268,11 +289,8 @@
     "Projects/Coding Projects/firstjavaproject/src/main/resources",
     "Projects/Coding Projects/firstjavaproject/src/main/java",
     "Projects/Coding Projects/firstjavaproject/target/test-classes",
-    "Projects/Coding Projects/firstjavaproject/target/classes",
     "Projects/Coding Projects/readme.md",
-    "Notes/Linux Cheat Sheet.md",
     "Notes/TryHackMe Notes.md",
-    "README.md",
     "Image dump/Mini Home Lab/readme.md",
     "Terminal Cheat Sheet.md",
     "Terminal Cheat Sheet/Untitled.md",
