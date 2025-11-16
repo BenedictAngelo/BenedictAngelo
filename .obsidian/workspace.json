@@ -153,8 +153,7 @@
               "title": "Mini Homelab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -360,7 +359,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "1226b5fb99f5b280",
+  "active": "6ff3ae4c67ccfefe",
   "lastOpenFiles": [
     "Image dump/Mini Home Lab/readme.md",
     "Projects/Coding Projects/readme.md",
