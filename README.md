@@ -65,9 +65,9 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 <details>
 <summary><h2>IT Projects</h2></summary>
 <div>
-    <ul>
+<ul>
 	    <li><a href="Projects/IT Projects/Mini Homelab.md">Virtual Mini Homelab</a></li>
-    </ul>
+</ul>
 </div>
 </details>
 
