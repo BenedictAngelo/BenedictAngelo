@@ -1,4 +1,18 @@
-# Connecting to THM VPN
+# Connecting to THM VPN in Linux
+Refer to [Linux Cheat Sheet](Linux%20Cheat%20Sheet.md) before installing anything.
+```
+sudo apt install openvpn
+
+or
+
+sudo pacman -S openvpn
+
+or
+
+sudo paru -S openvpn
+```
+
+- Use ==apt== if debian based, ==pacman== if Arch or ==paru== if AUR wrapper.
 
 ```
 sudo openvpn [VPN filepath downloaded]
