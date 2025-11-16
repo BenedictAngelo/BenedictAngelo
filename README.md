@@ -85,16 +85,15 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 	</details>
 	
 	<details>
-	<summary>Capture the Flags</summary>
+		<summary>Capture the Flags</summary>
 		<div>
 		    <ul>
 		        <ul>
-		            <li>Still ongoing</a></li>
+		            <li>Still ongoing</li>
 		        </ul>
 		    </ul>
 		</div>
 	</details>
-	
 </details>
 
 
