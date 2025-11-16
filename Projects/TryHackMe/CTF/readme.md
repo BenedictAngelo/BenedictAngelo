@@ -22,4 +22,6 @@ Every screenshot should have some text explaining what the screenshot is about.
 
 Example below.
 
+##### Back to [README](../../README.md) Mainpage
+
 
