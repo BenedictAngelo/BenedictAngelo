@@ -63,58 +63,59 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 # Projects
 
 <details>
-<summary><h2>IT Projects</h2></summary>
-<div>
-    <ul>
-	    <li><a href="Projects/IT Projects/Mini Homelab.md">Virtual Mini Homelab</a></li>
-    </ul>
-</div>
+	<summary><h2>IT Projects</h2></summary>
+	<div>
+	    <ul>
+		    <li><a href="Projects/IT Projects/Mini Homelab.md">Virtual Mini Homelab</a></li>
+	    </ul>
+	</div>
 </details>
 
 <details>
-<summary><h2>TryHackMe Projects</h2></summary>
+	<summary><h2>TryHackMe Projects</h2></summary>
 	<details>
 	  <summary>Learning Path Labs</summary>
-	<div>
-	    <ul>
-	        <ul>
-	            <li>Still ongoing</li>
-	        </ul>
-	    </ul>
-	</div>
+		<div>
+		    <ul>
+		        <ul>
+		            <li>Still ongoing</li>
+		        </ul>
+		    </ul>
+		</div>
 	</details>
+	
 	<details>
-	  <summary>Capture the Flags</summary>
-	<div>
-	    <ul>
-	        <ul>
-	            <li>Still ongoing</a></li>
-	        </ul>
-	    </ul>
-	</div>
+		<summary>Capture the Flags</summary>
+		<div>
+		    <ul>
+		        <ul>
+		            <li>Still ongoing</a></li>
+		        </ul>
+		    </ul>
+		</div>
 	</details>
 </details>
 
 
 <details>
-<summary><h2>Coding Projects</h2></summary>
-	<div>
-	    <ul>
-	        <li><a href="Projects/Coding Projects/firstjavaproject/src/main/java/com/example/Main.java">Basics of Java</a></a></li>
-	    </ul>
-	</div>
+	<summary><h2>Coding Projects</h2></summary>
+		<div>
+		    <ul>
+		        <li><a href="Projects/Coding Projects/firstjavaproject/src/main/java/com/example/Main.java">Basics of Java</a></a></li>
+		    </ul>
+		</div>
 </details>
 
 ---
 <details>
-<summary><h2>Notes</h2></summary>
-<div>
-	  <ul>
-	    <li><a href="Notes/Linux Cheat Sheet.md">Linux Cheat Sheet</a></li>
-	    <li><a href="Notes/Learning Windows OS.md">Windows OS Notes</a></li>
-	    <li><a href="Notes/TryHackMe Notes.md">TryHackMe Notes</a></li>
-	  </ul>
-</div>
+	<summary><h2>Notes</h2></summary>
+	<div>
+		  <ul>
+		    <li><a href="Notes/Linux Cheat Sheet.md">Linux Cheat Sheet</a></li>
+		    <li><a href="Notes/Learning Windows OS.md">Windows OS Notes</a></li>
+		    <li><a href="Notes/TryHackMe Notes.md">TryHackMe Notes</a></li>
+		  </ul>
+	</div>
 </details>
 
 
