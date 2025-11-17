@@ -56,11 +56,11 @@ The goal of this project is to simulate a small-scale security monitoring system
 
 ![](../../../Image%20dump/Mini%20security%20project%20dump/screenshot_17112025_132613.jpg)
 
-- Defined my parameters and added ==for== loops for filtering and conditional statement prints
+- Defined my parameters and added ==`for`== loops for filtering and conditional statement prints
 
 ![](../../../Image%20dump/Mini%20security%20project%20dump/screenshot_17112025_132826.jpg)
 
-- Created an ==echo== for an output print, and defining conditional findings of suspicious activity or no suspicious findings then a separate new SQL file for reference.
+- Created an ==`echo`== for an output print, and defining conditional findings of suspicious activity or no suspicious findings then a separate new SQL file for reference.
 
 ![](../../../Image%20dump/Mini%20security%20project%20dump/screenshot_17112025_134333.jpg)
 

@@ -26,7 +26,7 @@ The Virtual Mini Home Lab project is aimed to establish and create my very first
 ### 1.  Install Virtual box in my main OS
 <img width="756" height="70" alt="screenshot_11112025_202711" src="https://github.com/user-attachments/assets/6843e2c3-e65a-478c-b567-187b214c442d" />
 
--  "sudo pacman -Syu" to make sure my OS kernel and its packages is up to date then "sudo pacman -S virtualbox virtualbox-host-dkms dkms" to install virtualbox .(DKMS builds the modules for your current kernel and future kernel updates).
+-  ==`sudo pacman -Syu`== to make sure my OS kernel and its packages is up to date then ==`sudo pacman -S virtualbox virtualbox-host-dkms dkms`== to install virtualbox .(DKMS builds the modules for your current kernel and future kernel updates).
 
 ### 2.  Donwload Pre-Built VM kali linux at "https://www.kali.org/get-kali/#kali-virtual-machines"
 
@@ -106,6 +106,7 @@ The Virtual Mini Home Lab project is aimed to establish and create my very first
 ---
 
 ### *Completed in November 12 2025*
+
 ##### Back to [README](../../README.md) Mainpage
 
 

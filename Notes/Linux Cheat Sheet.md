@@ -26,7 +26,7 @@ sudo paccache -r
 paru -c
 ```
 
-- ==sudo pacman -Rns $(pacman -Qdtq)== Cleans orphaned packages in Arch packager, run ==pacman -Qdtq== first to check orphaned packages, ==paru -c== optional for cleaning AUR cache
+- ==`sudo pacman -Rns $(pacman -Qdtq)`== Cleans orphaned packages in Arch packager, run ==`pacman -Qdtq`== first to check orphaned packages, ==`paru -c`== optional for cleaning AUR cache
 ---
 ## Processes
 
@@ -37,8 +37,8 @@ paru -c
 ps aux | grep [The name of the program]
 ```
 
-- ==ps aux== to fetch the list of running programs in PC, then ==|== to pipe the output to ==grep==, then grep finds the similar program or name in general on the ==[The name of the program]==
-- ==fg== to bring the chosen process into and output into the terminal.
+- ==`ps aux`== to fetch the list of running programs in PC, then ==`|`== to pipe the output to ==`grep`==, then grep finds the similar program or name in general on the ==[The name of the program]==
+- ==`fg`== to bring the chosen process into and output into the terminal.
 
 ```
 top
@@ -75,7 +75,7 @@ systemctl [option] [service]
 
 -Is on of the processes that starts on boot and is responsible for doing a set of command during a specific set of time or every time.
 
-==cron== requires 6 specific values:
+==`cron`== requires 6 specific values:
 
 | Value | Description                           |
 | ----- | ------------------------------------- |
@@ -92,7 +92,7 @@ Example:
 ```
 
 - it support wildcard ==*== if no specific value to put.
-- ==crontabs== can be edited with ==crontab -e== then select an editor like ==nano==
+- ==`crontabs`== can be edited with ==`crontab -e`== then select an editor like ==`nano`==
 
 ---
 

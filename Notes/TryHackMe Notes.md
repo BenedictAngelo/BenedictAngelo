@@ -12,7 +12,7 @@ or
 sudo paru -S openvpn
 ```
 
-- Use ==apt== if debian based, ==pacman== if Arch or ==paru== if AUR wrapper.
+- Use ==`apt`== if debian based, ==`pacman`== if Arch or ==`paru`== if AUR wrapper.
 
 ```
 sudo openvpn [VPN filepath downloaded]

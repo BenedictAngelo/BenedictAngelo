@@ -1,14 +1,25 @@
 # Automated Antivirus Scanner
 
 ## Objective
-Install an antivirus called ==ClamAV== with ==ClamTK== for GUI support, automate a scheduled scanner and defining the scope of the scan, with a notifier.
+Install an antivirus called **`ClamAV`** with **`ClamTK`** for GUI support, automate a scheduled scanner and defining the scope of the scan, with a notifier.
 
 
 
 ### Skills Learned
 
-- **Bash scripting**: Using Bash to define and set parameters of antivirus, and to schedule scan for my desired time in my OS.
-
+- **Linux System Administration** – Managing services with `systemctl`, handling logs, setting permissions, and running scheduled tasks.
+    
+- **Shell Scripting (Bash)** – Automating repetitive tasks, writing scripts to run scans, filter results, and send notifications.
+    
+- **ClamAV/ClamTK Usage** – Installing, configuring, updating virus definitions, running manual and scheduled scans.
+    
+- **Process & Resource Management** – Using `nice` and `ionice` to run background scans without affecting system performance.
+    
+- **Log Management & Analysis** – Reading and parsing log files, generating custom reports, and understanding system scan results.
+    
+- **Notifications & User Interaction** – Sending desktop notifications for scan status and detected threats using `notify-send`.
+    
+- **Security Awareness** – Identifying suspicious login patterns, malware-prone directories, and best practices for scanning large file systems.
 ### Tools Used
 
 - Bash (Shell)
@@ -30,8 +41,8 @@ sudo apt install clamav clamtk
 ```
 
 - Install command for ClamAV antivirus for Arch repo and APT repo for debian based distros.
-- Additionally add ==clamtk-kde== and ==clamtk-gnome== for scheduler plugins in preference for your desktop manager. Gnome version works well with Hyprland/Wayland.
-
+- Additionally add ==`clamtk-kde`== and ==`clamtk-gnome`== for scheduler plugins in preference for your desktop manager. Gnome version works well with Hyprland/Wayland.
+---
 ### 2. Run ClamTK to familiarize to its GUI.
 
 ```
@@ -48,7 +59,7 @@ clamtk
 - **Use heuristic scanning**- Instead of just scanning for malware signatures, it also scan for irregular or suspicious patterns and behavior of codes. It may result to false positive and slows down scans.
 - **Scan files beginning with a dot**- Check to scan files that starts with dot(.), or also known as hidden files.
 - **Scan directories recursively**- Check to scan the folders within folders.
-
+---
 ### 3. Script a scan.
 
 ![](../../../Image%20dump/Linux%20Antivirus%20dump/screenshot_17112025_202407.jpg)
@@ -62,12 +73,14 @@ clamtk
 ![](../../../Image%20dump/Linux%20Antivirus%20dump/screenshot_17112025_202531.jpg)
 
 - Added notification to notify me, and to no do anything that would interrupt the scan, added my scan commands with the defined variables for neat logging.
-- Added ==if/fi== and ==else== for conditional statements.
+- Added ==`nice`== and ==`ionice`== for low priority and reduce system usage
+- Added ==`if/fi`== and ==`else`== for conditional statements.
 - Ctrl + o then enter to save, Ctrl + x to exit nano
 
 ![](../../../Image%20dump/Linux%20Antivirus%20dump/screenshot_17112025_203545.jpg)
 
 - Make it executable.
+---
 ### 4. Make it a systemd service
 
 ![](../../../Image%20dump/Linux%20Antivirus%20dump/screenshot_17112025_203959.jpg)
@@ -77,7 +90,7 @@ clamtk
 ![](../../../Image%20dump/Linux%20Antivirus%20dump/screenshot_17112025_204134.jpg)
 
 - Gave it a description and .service name and to run after clamav service, then referenced the script made earlier
-
+---
 ### 5. Create the systemd timer for custom scan schedule
 
 ![](../../../Image%20dump/Linux%20Antivirus%20dump/screenshot_17112025_204548.jpg)
@@ -87,7 +100,7 @@ clamtk
 ![](../../../Image%20dump/Linux%20Antivirus%20dump/screenshot_17112025_204824.jpg)
 
 - Make it run every Monday 12 noon.
-
+---
 ### 6. Enable and start the timer
 
 ![](../../../Image%20dump/Linux%20Antivirus%20dump/screenshot_17112025_205012.jpg)
@@ -98,5 +111,7 @@ clamtk
 
 - Check for the service.
 - Now it should work auto scans every Monday 12:00 noon, and if my PC is open, and it will notify me if its scanning.
-
+---
+### *Completed in November 17 2025*
 ##### Back to [README](../../../README.md) Mainpage
+

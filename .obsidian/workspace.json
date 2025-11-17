@@ -79,20 +79,6 @@
             }
           },
           {
-            "id": "15494ce23e2cbfb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Linux Cheat Sheet.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Linux Cheat Sheet"
-            }
-          },
-          {
             "id": "73ef37eb1dfd504e",
             "type": "leaf",
             "state": {
@@ -106,27 +92,14 @@
               "title": "Mini Homelab"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "6de8894b9a6339df",
         "type": "tabs",
         "dimension": 53.188405797101446,
         "children": [
-          {
-            "id": "737d51b8cb035636",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Coding Projects/Linux Antivirus/readme.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "readme"
-            }
-          },
           {
             "id": "b6df954cd59139bb",
             "type": "leaf",
@@ -139,6 +112,20 @@
               },
               "icon": "lucide-file",
               "title": "README"
+            }
+          },
+          {
+            "id": "737d51b8cb035636",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Coding Projects/Linux Antivirus/readme.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "readme"
             }
           },
           {
@@ -168,9 +155,23 @@
               "icon": "lucide-file",
               "title": "TryHackMe Notes"
             }
+          },
+          {
+            "id": "15494ce23e2cbfb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Linux Cheat Sheet.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Linux Cheat Sheet"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -376,10 +377,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "687179053879e8c2",
+  "active": "73ef37eb1dfd504e",
   "lastOpenFiles": [
-    "Projects/Coding Projects/Linux Antivirus/readme.md",
+    "Notes/Linux Cheat Sheet.md",
+    "Notes/TryHackMe Notes.md",
+    "Notes/Learning Windows OS.md",
     "Projects/Coding Projects/Mini Security Project/readme.md",
+    "Projects/Coding Projects/Linux Antivirus/readme.md",
+    "README.md",
     "Image dump/Linux Antivirus dump/screenshot_17112025_212306.jpg",
     "Image dump/Linux Antivirus dump/screenshot_17112025_205136.jpg",
     "Image dump/Linux Antivirus dump/screenshot_17112025_205012.jpg",
@@ -392,14 +397,10 @@
     "Image dump/Linux Antivirus dump/screenshot_17112025_202531.jpg",
     "Image dump/Linux Antivirus dump",
     "Projects/TryHackMe/project template.md",
-    "README.md",
     "Projects/Coding Projects/Linux Antivirus",
     "Projects/Coding Projects/Python project1.py",
-    "Notes/Learning Windows OS.md",
-    "Notes/TryHackMe Notes.md",
     "Projects/IT Projects/Mini Homelab.md",
     "Image dump/CV.pdf",
-    "Notes/Linux Cheat Sheet.md",
     "Projects/Coding Projects/Mini Security Project/suspicious.sql",
     "Projects/Coding Projects/Mini Security Project/suspicious.txt",
     "Projects/Coding Projects/Mini Security Project/analyzer.py",
