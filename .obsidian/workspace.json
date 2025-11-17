@@ -226,7 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 200
   },
   "right": {
     "id": "4d289702892f145b",
@@ -342,7 +342,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 246.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -359,8 +359,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "6ff3ae4c67ccfefe",
+  "active": "fdea9aea4d1526dd",
   "lastOpenFiles": [
+    "Image dump/Mini security project dump/screenshot_17112025_130250.jpg",
+    "Image dump/Mini security project dump",
+    "Projects/Coding Projects/Mini Security Project/readme.md",
+    "Projects/Coding Projects/Mini Security Project/generate_db.py",
+    "Projects/Coding Projects/Mini Security Project",
     "Image dump/Mini Home Lab/readme.md",
     "Projects/Coding Projects/readme.md",
     "Projects/TryHackMe/project template.md",
@@ -381,9 +386,6 @@
     "Projects/Coding Projects/firstjavaproject/src/main/java/com/example",
     "Projects/Coding Projects/firstjavaproject/target/classes/com/example",
     "Projects/Coding Projects/firstjavaproject/src/main/java/com",
-    "Projects/Coding Projects/firstjavaproject/target/classes/com",
-    "Projects/Coding Projects/firstjavaproject/src/test/java",
-    "Projects/Coding Projects/firstjavaproject/src/main/resources",
     "Terminal Cheat Sheet.md",
     "Terminal Cheat Sheet/Untitled.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
@@ -394,8 +396,6 @@
     "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Simplify.md"
+    "copilot/copilot-custom-prompts/Emojify.md"
   ]
 }
