@@ -25,7 +25,7 @@ The goal of this project is to simulate a small-scale security monitoring system
 ### 1. Creating a sample data of 5 people with attempted login (fictional).
 ![](../../../Image%20dump/Mini%20security%20project%20dump/screenshot_17112025_130250.jpg)
 
-- Creating a a file for generating database using python with SQLite import
+- Creating  a file for generating database using python with SQLite import
 
 ![](../../../Image%20dump/Mini%20security%20project%20dump/screenshot_17112025_130847.jpg)
 
