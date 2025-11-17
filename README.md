@@ -25,7 +25,7 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 | Setting up a small virtual home lab | <a href="Projects/IT Projects/Mini Homelab.md">Virtual Mini Home Lab</a>                                                                                             |
 | Data Analyzation and Automation     | <a href="Projects/Coding Projects/Mini Security Project/readme.md">Mini Security Project</a>                                                                         |
 | Python and SQL automation           | <a href="Projects/Coding Projects/Mini Security Project/readme.md">Mini Security Project</a>                                                                         |
-| Bash(shell) and Scripting           | <a href="Projects/IT Projects/Mini Homelab.md">Mini Home Lab</a><br><a href="Projects/Coding Projects/Mini Security Project/readme.md">Mini Security Project</a><br><a href="Projects/Coding Projects/Linux Antivirus/readme.md">Automated Linux Antivirus Project</a>|
+| Bash(shell) and Scripting           | <a href="Projects/IT Projects/Mini Homelab.md">Virtual Mini Home Lab</a><br><a href="Projects/Coding Projects/Mini Security Project/readme.md">Mini Security Project</a><br><a href="Projects/Coding Projects/Linux Antivirus/readme.md">Automated Linux Antivirus Project</a>|
 | Automated Linux Antivirus Scanner   | <a href="Projects/Coding Projects/Linux Antivirus/readme.md">Automated Linux Antivirus Project</a>                                                                   |
 
 ---

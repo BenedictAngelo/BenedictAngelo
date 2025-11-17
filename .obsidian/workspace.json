@@ -92,8 +92,7 @@
               "title": "Mini Homelab"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "6de8894b9a6339df",
@@ -170,8 +169,7 @@
               "title": "Linux Cheat Sheet"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -377,8 +375,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "73ef37eb1dfd504e",
+  "active": "b6df954cd59139bb",
   "lastOpenFiles": [
+    "Projects/IT Projects/Mini Homelab.md",
     "Notes/Linux Cheat Sheet.md",
     "Notes/TryHackMe Notes.md",
     "Notes/Learning Windows OS.md",
@@ -399,7 +398,6 @@
     "Projects/TryHackMe/project template.md",
     "Projects/Coding Projects/Linux Antivirus",
     "Projects/Coding Projects/Python project1.py",
-    "Projects/IT Projects/Mini Homelab.md",
     "Image dump/CV.pdf",
     "Projects/Coding Projects/Mini Security Project/suspicious.sql",
     "Projects/Coding Projects/Mini Security Project/suspicious.txt",
