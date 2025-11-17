@@ -6,19 +6,34 @@
       {
         "id": "74c92128267aa9aa",
         "type": "tabs",
+        "dimension": 46.81159420289855,
         "children": [
+          {
+            "id": "687179053879e8c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
           {
             "id": "9ad9d8384ede4928",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Coding Projects/Linux Antivirus/Automated Antivirus Scanner.md",
+                "file": "Projects/Coding Projects/Linux Antivirus/readme.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Automated Antivirus Scanner"
+              "title": "readme"
             }
           },
           {
@@ -96,7 +111,22 @@
       {
         "id": "6de8894b9a6339df",
         "type": "tabs",
+        "dimension": 53.188405797101446,
         "children": [
+          {
+            "id": "737d51b8cb035636",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Coding Projects/Linux Antivirus/readme.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "readme"
+            }
+          },
           {
             "id": "b6df954cd59139bb",
             "type": "leaf",
@@ -139,7 +169,8 @@
               "title": "TryHackMe Notes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -345,37 +376,37 @@
       "graph:Open graph view": false
     }
   },
-  "active": "9ad9d8384ede4928",
+  "active": "687179053879e8c2",
   "lastOpenFiles": [
+    "Projects/Coding Projects/Linux Antivirus/readme.md",
+    "Projects/Coding Projects/Mini Security Project/readme.md",
+    "Image dump/Linux Antivirus dump/screenshot_17112025_212306.jpg",
+    "Image dump/Linux Antivirus dump/screenshot_17112025_205136.jpg",
+    "Image dump/Linux Antivirus dump/screenshot_17112025_205012.jpg",
+    "Image dump/Linux Antivirus dump/screenshot_17112025_204824.jpg",
+    "Image dump/Linux Antivirus dump/screenshot_17112025_204548.jpg",
+    "Image dump/Linux Antivirus dump/screenshot_17112025_204524.jpg",
+    "Image dump/Linux Antivirus dump/screenshot_17112025_204134.jpg",
+    "Image dump/Linux Antivirus dump/screenshot_17112025_203959.jpg",
+    "Image dump/Linux Antivirus dump/screenshot_17112025_203545.jpg",
+    "Image dump/Linux Antivirus dump/screenshot_17112025_202531.jpg",
+    "Image dump/Linux Antivirus dump",
     "Projects/TryHackMe/project template.md",
-    "Projects/Coding Projects/Linux Antivirus/Automated Antivirus Scanner.md",
     "README.md",
     "Projects/Coding Projects/Linux Antivirus",
     "Projects/Coding Projects/Python project1.py",
     "Notes/Learning Windows OS.md",
     "Notes/TryHackMe Notes.md",
-    "Projects/Coding Projects/Mini Security Project/readme.md",
     "Projects/IT Projects/Mini Homelab.md",
     "Image dump/CV.pdf",
     "Notes/Linux Cheat Sheet.md",
-    "Image dump/Mini security project dump/screenshot_17112025_134517.jpg",
-    "Image dump/Mini security project dump/screenshot_17112025_134333.jpg",
     "Projects/Coding Projects/Mini Security Project/suspicious.sql",
     "Projects/Coding Projects/Mini Security Project/suspicious.txt",
-    "Image dump/Mini security project dump/screenshot_17112025_132826.jpg",
-    "Image dump/Mini security project dump/screenshot_17112025_132613.jpg",
-    "Image dump/Mini security project dump/screenshot_17112025_132502.jpg",
     "Projects/Coding Projects/Mini Security Project/analyzer.py",
-    "Image dump/Mini security project dump/screenshot_17112025_131727.jpg",
-    "Image dump/Mini security project dump/screenshot_17112025_131602.jpg",
     "Projects/Coding Projects/Mini Security Project/data.db-journal",
     "Projects/Coding Projects/Mini Security Project/data.db",
-    "Image dump/Mini security project dump/screenshot_17112025_131132.jpg",
-    "Image dump/Mini security project dump/screenshot_17112025_130847.jpg",
     "Projects/Coding Projects/readme.md",
-    "Image dump/Mini security project dump/screenshot_17112025_130250.jpg",
     "Image dump/Mini security project dump",
-    "Projects/Coding Projects/Mini Security Project/generate_db.py",
     "Image dump/Mini Home Lab/readme.md",
     "Projects/TryHackMe/Learning-Path-Labs/readme.md",
     "Projects/readme.md",
@@ -391,7 +422,6 @@
     "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Emojify.md"
+    "copilot/copilot-custom-prompts/Explain like I am 5.md"
   ]
 }
