@@ -22,7 +22,7 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 | Skill                               | Associated Project                                                                                                                                            |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | HTML and structured documentation   | My whole GitHub                                                                                                                                               |
-| Setting up a small virtual home lab | <a href="Projects/IT Projects/Mini Homelab.md">Mini Home Lab</a>                                                                                              |
+| Setting up a small virtual home lab | <a href="Projects/IT Projects/Mini Homelab.md">Virtual Mini Home Lab</a>                                                                                      |
 | Data Analyzation and Automation     | <a href="Projects/Coding Projects/Mini Security Project/readme.md">Mini Security Project</a>                                                                  |
 | Python and SQL automation           | <a href="Projects/Coding Projects/Mini Security Project/readme.md">Mini Security Project</a>                                                                  |
 | Bash(shell) and Scripting           | <a href="Projects/IT Projects/Mini Homelab.md">Mini Home Lab</a>,<a href="Projects/Coding Projects/Mini Security Project/readme.md">Mini Security Project</a> |
@@ -37,6 +37,8 @@ My journey in computer science has led me to develop a passion for Cybersecurity
     <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Parrot%20OS-15E0A5?&style=for-the-badge&logo=parrotsecurity&logoColor=white" />
     <img src="https://img.shields.io/badge/-Linux%20Mint-87CF3E?&style=for-the-badge&logo=linuxmint&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> </div>
 </div>
 
 ### Virtual Machines
@@ -53,6 +55,17 @@ My journey in computer science has led me to develop a passion for Cybersecurity
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/-SQL-FF0000?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
+
+### Editors / Tools
+
+<div> 
+	<img src="https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim&logoColor=white" /> 
+	<img src="https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" /> 
+	<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+	 <img src="https://img.shields.io/badge/-Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" /> 
+	 <img src="https://img.shields.io/badge/-Git-FA7343?style=for-the-badge&logo=git&logoColor=white" />
+	  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> 
+	</div>
 
 ---
 ## Certifications

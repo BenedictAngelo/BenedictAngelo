@@ -15,7 +15,7 @@
               "state": {
                 "file": "README.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "README"
@@ -91,8 +91,55 @@
               "title": "Mini Homelab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "6de8894b9a6339df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6df954cd59139bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "1ad649f2140fb72f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Learning Windows OS.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Learning Windows OS"
+            }
+          },
+          {
+            "id": "e89550fb9c50f9ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/TryHackMe Notes.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "TryHackMe Notes"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -298,14 +345,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "9f7fa8b70ec49a88",
+  "active": "9ad9d8384ede4928",
   "lastOpenFiles": [
-    "Projects/IT Projects/Mini Homelab.md",
+    "Notes/Learning Windows OS.md",
+    "Notes/TryHackMe Notes.md",
     "Projects/Coding Projects/Mini Security Project/readme.md",
+    "Projects/IT Projects/Mini Homelab.md",
     "Image dump/CV.pdf",
     "Notes/Linux Cheat Sheet.md",
-    "Notes/TryHackMe Notes.md",
-    "Notes/Learning Windows OS.md",
     "README.md",
     "Image dump/Mini security project dump/screenshot_17112025_134517.jpg",
     "Image dump/Mini security project dump/screenshot_17112025_134333.jpg",
