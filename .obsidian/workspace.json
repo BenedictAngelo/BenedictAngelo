@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Projects/Coding Projects/Linux Antivirus/Automated Antivirus Scanner.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Automated Antivirus Scanner"
             }
           },
           {
@@ -345,8 +345,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "44bb9446e5fea5b8",
+  "active": "9ad9d8384ede4928",
   "lastOpenFiles": [
+    "Projects/TryHackMe/project template.md",
+    "Projects/Coding Projects/Linux Antivirus/Automated Antivirus Scanner.md",
+    "README.md",
+    "Projects/Coding Projects/Linux Antivirus",
     "Projects/Coding Projects/Python project1.py",
     "Notes/Learning Windows OS.md",
     "Notes/TryHackMe Notes.md",
@@ -354,7 +358,6 @@
     "Projects/IT Projects/Mini Homelab.md",
     "Image dump/CV.pdf",
     "Notes/Linux Cheat Sheet.md",
-    "README.md",
     "Image dump/Mini security project dump/screenshot_17112025_134517.jpg",
     "Image dump/Mini security project dump/screenshot_17112025_134333.jpg",
     "Projects/Coding Projects/Mini Security Project/suspicious.sql",
@@ -373,15 +376,12 @@
     "Image dump/Mini security project dump/screenshot_17112025_130250.jpg",
     "Image dump/Mini security project dump",
     "Projects/Coding Projects/Mini Security Project/generate_db.py",
-    "Projects/Coding Projects/Mini Security Project",
     "Image dump/Mini Home Lab/readme.md",
-    "Projects/TryHackMe/project template.md",
     "Projects/TryHackMe/Learning-Path-Labs/readme.md",
     "Projects/readme.md",
     "Projects/TryHackMe/CTF/readme.md",
     "Image dump/readme.md",
     "Excalidraw/Drawing 2025-11-16 13.19.37.excalidraw.md",
-    "Excalidraw",
     "Terminal Cheat Sheet.md",
     "Terminal Cheat Sheet/Untitled.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
