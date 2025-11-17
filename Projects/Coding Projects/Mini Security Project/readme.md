@@ -52,7 +52,7 @@ The goal of this project is to simulate a small-scale security monitoring system
 
 ![](../../../Image%20dump/Mini%20security%20project%20dump/screenshot_17112025_132502.jpg)
 
-- Created and imported SQL and defined the filename outputs
+- Created and imported SQL and defined the file outputs
 
 ![](../../../Image%20dump/Mini%20security%20project%20dump/screenshot_17112025_132613.jpg)
 
@@ -60,7 +60,7 @@ The goal of this project is to simulate a small-scale security monitoring system
 
 ![](../../../Image%20dump/Mini%20security%20project%20dump/screenshot_17112025_132826.jpg)
 
-- Created and ==echo== for an output print, and defining conditional findings of suspicious activity or no suspicious findings then a separate new SQL file for reference.
+- Created an ==echo== for an output print, and defining conditional findings of suspicious activity or no suspicious findings then a separate new SQL file for reference.
 
 ![](../../../Image%20dump/Mini%20security%20project%20dump/screenshot_17112025_134333.jpg)
 
@@ -71,7 +71,7 @@ The goal of this project is to simulate a small-scale security monitoring system
 
 ![](../../../Image%20dump/Mini%20security%20project%20dump/screenshot_17112025_134517.jpg)
 
-- Confirmed and filtered, that =="Bon Santos"== was the suspicious that attempted login outside working hours showing his devices, IP, and location.
+- Confirmed and filtered, that =="Bob Santos"== was the suspicious that attempted login outside working hours showing his devices, IP, and location.
 
 ---
 
