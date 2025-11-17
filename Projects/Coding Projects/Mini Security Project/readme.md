@@ -1,17 +1,20 @@
 # Mini security Project
 
 ## Objective
-To create a small SQLite database containing fictional data partaining of logging activities, then using python for filtering suspicious activity then automatic logging to output and in a text file
-
+The goal of this project is to simulate a small-scale security monitoring system that detects suspicious login activity. Using a SQLite database of user logins, the script identifies failed login attempts occurring outside of standard working hours and generates a report for analysis. This helps understand the basics of intrusion detection and automated monitoring.
 
 
 ### Skills Learned
 
-- Python
-- SQL
-- Automated logging
-- Bash
-
+- **Python scripting**: Reading and processing data from databases, working with `datetime` objects, conditional filtering, and file I/O.
+    
+- **SQL & SQLite**: Creating tables, inserting sample data, querying for specific conditions, and exporting data.
+    
+- **Data analysis & automation**: Automating the detection of anomalies based on rules (failed login + outside working hours).
+    
+- **Reporting**: Writing structured output to text and SQL files for further review or auditing.
+    
+- **Basic cybersecurity awareness**: Understanding how login patterns can indicate suspicious or unauthorized access attempts.
 ### Tools Used
 
 - Python

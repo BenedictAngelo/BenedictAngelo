@@ -6,6 +6,7 @@
       {
         "id": "c0b3c09f3c5a2e21",
         "type": "tabs",
+        "dimension": 40.65217391304348,
         "children": [
           {
             "id": "1226b5fb99f5b280",
@@ -82,19 +83,20 @@
       {
         "id": "74c92128267aa9aa",
         "type": "tabs",
+        "dimension": 59.34782608695652,
         "children": [
           {
-            "id": "6ff3ae4c67ccfefe",
+            "id": "d9a73be393b19c2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Coding Projects/Mini Security Project/readme.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "README"
             }
           },
           {
@@ -431,8 +433,11 @@
       }
     ]
   },
-  "active": "0fcb57d187aeb920",
+  "active": "1226b5fb99f5b280",
   "lastOpenFiles": [
+    "Projects/Coding Projects/Mini Security Project/readme.md",
+    "README.md",
+    "Notes/Learning Windows OS.md",
     "Image dump/Mini security project dump/screenshot_17112025_134517.jpg",
     "Image dump/Mini security project dump/screenshot_17112025_134333.jpg",
     "Projects/Coding Projects/Mini Security Project/suspicious.sql",
@@ -447,11 +452,9 @@
     "Projects/Coding Projects/Mini Security Project/data.db",
     "Image dump/Mini security project dump/screenshot_17112025_131132.jpg",
     "Image dump/Mini security project dump/screenshot_17112025_130847.jpg",
-    "README.md",
     "Projects/Coding Projects/readme.md",
     "Image dump/Mini security project dump/screenshot_17112025_130250.jpg",
     "Image dump/Mini security project dump",
-    "Projects/Coding Projects/Mini Security Project/readme.md",
     "Projects/Coding Projects/Mini Security Project/generate_db.py",
     "Projects/Coding Projects/Mini Security Project",
     "Image dump/Mini Home Lab/readme.md",
@@ -459,7 +462,6 @@
     "Projects/IT Projects/Mini Homelab.md",
     "Notes/Linux Cheat Sheet.md",
     "Notes/TryHackMe Notes.md",
-    "Notes/Learning Windows OS.md",
     "Projects/TryHackMe/Learning-Path-Labs/readme.md",
     "Projects/readme.md",
     "Projects/TryHackMe/CTF/readme.md",
