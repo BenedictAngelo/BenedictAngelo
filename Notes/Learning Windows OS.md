@@ -69,4 +69,4 @@ To learn more about ADS, refer to the following link from MalwareBytes [here](h
 
 ---
 
-##### Back to [README](../../README.md) Mainpage
+##### Back to [README](../README.md) Mainpage

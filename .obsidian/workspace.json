@@ -56,8 +56,8 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/TryHackMe Notes.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "TryHackMe Notes"
@@ -70,8 +70,8 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/Linux Cheat Sheet.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Linux Cheat Sheet"
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -298,11 +298,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "a9e659615a80b3b0",
+  "active": "73ef37eb1dfd504e",
   "lastOpenFiles": [
+    "Notes/Linux Cheat Sheet.md",
+    "Notes/TryHackMe Notes.md",
+    "Notes/Learning Windows OS.md",
     "Projects/Coding Projects/Mini Security Project/readme.md",
     "README.md",
-    "Notes/Learning Windows OS.md",
     "Projects/IT Projects/Mini Homelab.md",
     "Image dump/Mini security project dump/screenshot_17112025_134517.jpg",
     "Image dump/Mini security project dump/screenshot_17112025_134333.jpg",
@@ -325,8 +327,6 @@
     "Projects/Coding Projects/Mini Security Project",
     "Image dump/Mini Home Lab/readme.md",
     "Projects/TryHackMe/project template.md",
-    "Notes/Linux Cheat Sheet.md",
-    "Notes/TryHackMe Notes.md",
     "Projects/TryHackMe/Learning-Path-Labs/readme.md",
     "Projects/readme.md",
     "Projects/TryHackMe/CTF/readme.md",
