@@ -121,7 +121,7 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 <summary><h2>Coding Projects</h2></summary>
 	<div>
 	    <ul>
-	        <li><a href="Projects/Coding Projects/firstjavaproject/src/main/java/com/example/Main.java">Basics of Java</a></a></li>
+	        <li><a href="Projects/Coding Projects/firstjavaproject/src/main/java/com/example/Main.java">Basics of Java (In-Progress)</a></a></li>
 			<li><a href="Projects/Coding Projects/Mini Security Project/readme.md">Mini Security Project</a></a></li>
 	    </ul>
 	</div>
