@@ -22,7 +22,7 @@ The goal of this project is to simulate a small-scale security monitoring system
 - Bash
 
 ## Steps
-1. Creating a sample data of 5 people with attempted login (fictional).
+### 1. Creating a sample data of 5 people with attempted login (fictional).
 ![](../../../Image%20dump/Mini%20security%20project%20dump/screenshot_17112025_130250.jpg)
 
 - Creating a a file for generating database using python with SQLite import
@@ -37,7 +37,7 @@ The goal of this project is to simulate a small-scale security monitoring system
 - Made it executable to generate the database file.
 ---
 
-2. Run it to generate data file.
+### 2. Run it to generate data file.
 
 ![](../../../Image%20dump/Mini%20security%20project%20dump/screenshot_17112025_131602.jpg)
 
@@ -48,7 +48,7 @@ The goal of this project is to simulate a small-scale security monitoring system
 - Check if successful.
 ---
 
-3. Creating the python file analyzer that would find suspicious activity of the subjects within the database.
+### 3. Creating the python file analyzer that would find suspicious activity of the subjects within the database.
 
 ![](../../../Image%20dump/Mini%20security%20project%20dump/screenshot_17112025_132502.jpg)
 
@@ -67,7 +67,7 @@ The goal of this project is to simulate a small-scale security monitoring system
 - Execute the ==analyzer.py==, then confirmed the 2 file outputs.
 ---
 
-4. Look at the contents of the file outputs.
+### 4. Look at the contents of the file outputs.
 
 ![](../../../Image%20dump/Mini%20security%20project%20dump/screenshot_17112025_134517.jpg)
 
@@ -75,7 +75,7 @@ The goal of this project is to simulate a small-scale security monitoring system
 
 ---
 
-# END. Completed in November 16 2025
+### *Completed in November 16 2025*
 
 
 ##### Back to [README](../../../README.md) Mainpage

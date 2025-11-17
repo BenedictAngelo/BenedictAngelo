@@ -84,15 +84,15 @@
               "type": "markdown",
               "state": {
                 "file": "Projects/IT Projects/Mini Homelab.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Mini Homelab"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -298,15 +298,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "44bb9446e5fea5b8",
+  "active": "9f7fa8b70ec49a88",
   "lastOpenFiles": [
+    "Projects/IT Projects/Mini Homelab.md",
+    "Projects/Coding Projects/Mini Security Project/readme.md",
     "Image dump/CV.pdf",
     "Notes/Linux Cheat Sheet.md",
     "Notes/TryHackMe Notes.md",
     "Notes/Learning Windows OS.md",
-    "Projects/Coding Projects/Mini Security Project/readme.md",
     "README.md",
-    "Projects/IT Projects/Mini Homelab.md",
     "Image dump/Mini security project dump/screenshot_17112025_134517.jpg",
     "Image dump/Mini security project dump/screenshot_17112025_134333.jpg",
     "Projects/Coding Projects/Mini Security Project/suspicious.sql",

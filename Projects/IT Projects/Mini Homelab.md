@@ -17,7 +17,7 @@ The Virtual Mini Home Lab project is aimed to establish and create my very first
 ### Tools Used
 
 - Virtual Box.
-- Cachy OS (My main OS).
+- Arch Linux (My main OS).
 - Kali Linux OS for standard Penetration testing use.
 - Parrot security OS for lightweight and stable Penetration testing/Digital Forensic use.
 - Linux mint OS to simulate a vulnerable victim OS.
