@@ -32,6 +32,7 @@ To create a small SQLite database containing fictional data partaining of loggin
 ![](../../../Image%20dump/Mini%20security%20project%20dump/screenshot_17112025_131132.jpg)
 
 - Made it executable to generate the database file.
+---
 
 2. Run it to generate data file.
 
@@ -42,6 +43,7 @@ To create a small SQLite database containing fictional data partaining of loggin
 ![](../../../Image%20dump/Mini%20security%20project%20dump/screenshot_17112025_131727.jpg)
 
 - Check if successful.
+---
 
 3. Creating the python file analyzer that would find suspicious activity of the subjects within the database.
 
@@ -60,12 +62,15 @@ To create a small SQLite database containing fictional data partaining of loggin
 ![](../../../Image%20dump/Mini%20security%20project%20dump/screenshot_17112025_134333.jpg)
 
 - Execute the ==analyzer.py==, then confirmed the 2 file outputs.
+---
 
 4. Look at the contents of the file outputs.
 
 ![](../../../Image%20dump/Mini%20security%20project%20dump/screenshot_17112025_134517.jpg)
 
 - Confirmed and filtered, that =="Bon Santos"== was the suspicious that attempted login outside working hours showing his devices, IP, and location.
+
+---
 
 # END. Completed in November 16 2025
 
