@@ -23,9 +23,9 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | HTML and structured documentation   | My whole GitHub                                                                                                                                                      |
 | Setting up a small virtual home lab | <a href="Projects/IT Projects/Mini Homelab.md">Virtual Mini Home Lab</a>                                                                                             |
-| Data Analyzation and Automation     | <a href="Projects/Coding Projects/Mini Security Project/readme.md">Mini Security Project</a>                                                                         |
-| Python and SQL automation           | <a href="Projects/Coding Projects/Mini Security Project/readme.md">Mini Security Project</a>                                                                         |
-| Bash(shell) and Scripting           | <a href="Projects/IT Projects/Mini Homelab.md">Virtual Mini Home Lab</a><br><a href="Projects/Coding Projects/Mini Security Project/readme.md">Mini Security Project</a><br><a href="Projects/Coding Projects/Linux Antivirus/readme.md">Automated Linux Antivirus Project</a>|
+| Data Analyzation and Automation     | <a href="Projects/Coding Projects/Login Analyzer/readme.md">Login Analyzer Project</a>                                                                         |
+| Python and SQL automation           | <a href="Projects/Coding Projects/Login Analyzer/readme.md">Login Analyzer Project</a>                                                                         |
+| Bash(shell) and Scripting           | <a href="Projects/IT Projects/Mini Homelab.md">Virtual Mini Home Lab</a><br><a href="Projects/Coding Projects/Login Analyzer/readme.md">Login Analyzer Project</a><br><a href="Projects/Coding Projects/Linux Antivirus/readme.md">Automated Linux Antivirus Project</a>|
 | Automated Linux Antivirus Scanner   | <a href="Projects/Coding Projects/Linux Antivirus/readme.md">Automated Linux Antivirus Project</a>                                                                   |
 
 ---
@@ -121,9 +121,9 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 <summary><h2>Coding Projects</h2></summary>
 	<div>
 	    <ul>
-	        <li><a href="Projects/Coding Projects/firstjavaproject/src/main/java/com/example/Main.java">Basics of Java (In-Progress)</a></a></li>
-			<li><a href="Projects/Coding Projects/Mini Security Project/readme.md">Mini Security Project</a></a></li>
-			<li><a href="Projects/Coding Projects/Linux Antivirus/readme.md">Automated Linux Antivirus Project</a></a></li>
+	        <li><a href="Projects/Coding Projects/firstjavaproject/src/main/java/com/example/Main.java">Basics of Java (In-Progress)</a></li>
+			<li><a href="Projects/Coding Projects/Login Analyzer/readme.md">Login Analyzer Project</a></li>
+			<li><a href="Projects/Coding Projects/Linux Antivirus/readme.md">Automated Linux Antivirus Project</a></li>
 	    </ul>
 	</div>
 </details>

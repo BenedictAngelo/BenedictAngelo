@@ -6,7 +6,7 @@
       {
         "id": "74c92128267aa9aa",
         "type": "tabs",
-        "dimension": 46.81159420289855,
+        "dimension": 68.84057971014492,
         "children": [
           {
             "id": "687179053879e8c2",
@@ -20,34 +20,6 @@
               },
               "icon": "lucide-file",
               "title": "README"
-            }
-          },
-          {
-            "id": "9ad9d8384ede4928",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Coding Projects/Linux Antivirus/readme.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "readme"
-            }
-          },
-          {
-            "id": "9f7fa8b70ec49a88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Coding Projects/Mini Security Project/readme.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "readme"
             }
           },
           {
@@ -97,7 +69,7 @@
       {
         "id": "6de8894b9a6339df",
         "type": "tabs",
-        "dimension": 53.188405797101446,
+        "dimension": 31.15942028985507,
         "children": [
           {
             "id": "b6df954cd59139bb",
@@ -111,20 +83,6 @@
               },
               "icon": "lucide-file",
               "title": "README"
-            }
-          },
-          {
-            "id": "737d51b8cb035636",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Coding Projects/Linux Antivirus/readme.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "readme"
             }
           },
           {
@@ -375,15 +333,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b6df954cd59139bb",
+  "active": "687179053879e8c2",
   "lastOpenFiles": [
     "Projects/IT Projects/Mini Homelab.md",
-    "Notes/Linux Cheat Sheet.md",
-    "Notes/TryHackMe Notes.md",
+    "Projects/Coding Projects/Login Analyzer/readme.md",
     "Notes/Learning Windows OS.md",
-    "Projects/Coding Projects/Mini Security Project/readme.md",
     "Projects/Coding Projects/Linux Antivirus/readme.md",
     "README.md",
+    "Notes/Linux Cheat Sheet.md",
+    "Notes/TryHackMe Notes.md",
     "Image dump/Linux Antivirus dump/screenshot_17112025_212306.jpg",
     "Image dump/Linux Antivirus dump/screenshot_17112025_205136.jpg",
     "Image dump/Linux Antivirus dump/screenshot_17112025_205012.jpg",
@@ -399,13 +357,13 @@
     "Projects/Coding Projects/Linux Antivirus",
     "Projects/Coding Projects/Python project1.py",
     "Image dump/CV.pdf",
-    "Projects/Coding Projects/Mini Security Project/suspicious.sql",
-    "Projects/Coding Projects/Mini Security Project/suspicious.txt",
-    "Projects/Coding Projects/Mini Security Project/analyzer.py",
+    "Projects/Coding Projects/Login Analyzer/suspicious.sql",
+    "Projects/Coding Projects/Login Analyzer/suspicious.txt",
+    "Projects/Coding Projects/Login Analyzer/analyzer.py",
     "Projects/Coding Projects/Mini Security Project/data.db-journal",
-    "Projects/Coding Projects/Mini Security Project/data.db",
+    "Projects/Coding Projects/Login Analyzer/data.db",
     "Projects/Coding Projects/readme.md",
-    "Image dump/Mini security project dump",
+    "Image dump/Login Analyzer",
     "Image dump/Mini Home Lab/readme.md",
     "Projects/TryHackMe/Learning-Path-Labs/readme.md",
     "Projects/readme.md",
