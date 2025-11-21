@@ -56,7 +56,8 @@ Learning Linux from scratch by installing and compiling a Gentoo OS at a Virtual
 
 
 
-
+---
+*Reference: https://www.linuxfromscratch.org/lfs/view/stable/index.html *
 
 
 ##### Back to [README](../../README.md) Mainpage

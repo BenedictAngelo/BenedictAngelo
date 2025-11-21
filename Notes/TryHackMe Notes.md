@@ -62,7 +62,7 @@ The screenshot below shows the result of checking the submitted file against 67 
 
 ![The results for an email address on the Have I Been Pwned website.](https://tryhackme-images.s3.amazonaws.com/user-uploads/5f04259cf9bf5b57aed2c476/room-content/5f04259cf9bf5b57aed2c476-1718112534973)
 
-*Reference: https://tryhackme.com/room/searchskills*
+*Reference: https://tryhackme.com/room/searchskills *
 
 ##### Back to [README](../README.md) Mainpage
 

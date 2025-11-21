@@ -136,7 +136,7 @@ Each group has permissions set to it, and users are assigned/added to groups by 
 
 **Note**: If you click on **Add someone else to this PC** from **Other users**, it will open **Local Users and Management**.
 
-*Reference: https://tryhackme.com/room/windowsfundamentals1xbx*
+*Reference: https://tryhackme.com/room/windowsfundamentals1xbx *
 
 ---
 
