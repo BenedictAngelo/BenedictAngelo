@@ -82,7 +82,7 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 # Projects
 
 <details>
-<summary><h2>IT Projects</h2></summary>
+<summary><h2>Homelab Projects</h2></summary>
 <div>
 <ul>
 	<li><a href="Projects/IT Projects/Mini Homelab.md">Virtual Mini Homelab</a></li>
@@ -118,7 +118,7 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 
 
 <details>
-<summary><h2>Coding Projects</h2></summary>
+<summary><h2>Programming Projects</h2></summary>
 	<div>
 	    <ul>
 	        <li><a href="Projects/Coding Projects/firstjavaproject/src/main/java/com/example/Main.java">Basics of Java (In-Progress)</a></li>

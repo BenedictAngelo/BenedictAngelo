@@ -17,7 +17,7 @@ Learning Linux from scratch by installing and compiling a Gentoo OS at a Virtual
 ## Steps
 ---
 
- ### 1. Download the Minimal Gentoo ISO file at: https://www.gentoo.org/downloads/, and set up in Virtual Box, refer to: [Mini Homelab](../IT%20Projects/Mini%20Homelab.md).
+ ### 1. Download the Minimal Gentoo ISO file at: https://www.gentoo.org/downloads/, and set up in Virtual Box, refer to: [Mini Homelab](../Homelab%20Projects/Mini%20Homelab.md).
 
 ![](../../Image%20dump/LFS%20dump/screenshot_20112025_152053.jpg)
 
