@@ -91,7 +91,8 @@
               "title": "Mini Homelab"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e41bffe63ddef2d1",
@@ -317,15 +318,54 @@
       "graph:Open graph view": false
     }
   },
-  "active": "44bb9446e5fea5b8",
+  "floating": {
+    "id": "f35de0b0c31ce01d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "7cb52fd880e24a9f",
+        "type": "window",
+        "children": [
+          {
+            "id": "b59125e1b0af535c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "518b37732c76e00e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Learning Windows OS.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Learning Windows OS"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "518b37732c76e00e",
   "lastOpenFiles": [
+    "README.md",
     "Image dump/CV.pdf",
     "Projects/Homelab Projects/Mini Homelab.md",
     "Notes/Linux Cheat Sheet.md",
     "Notes/TryHackMe Notes.md",
     "Notes/Learning Windows OS.md",
     "Projects/Programming Projects/Linux From Scratch Project.md",
-    "README.md",
     "Image dump/LFS dump/screenshot_20112025_154237.jpg",
     "Image dump/LFS dump/screenshot_20112025_153231.jpg",
     "Image dump/LFS dump/screenshot_20112025_152436.jpg",
