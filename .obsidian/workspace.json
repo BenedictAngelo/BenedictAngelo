@@ -95,8 +95,7 @@
                   "title": "Linux From Scratch Project"
                 }
               }
-            ],
-            "currentTab": 5
+            ]
           },
           {
             "id": "1939ab96c2178929",
@@ -325,15 +324,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "41b257b0e9aadb55",
+  "active": "3d071d257201ddac",
   "lastOpenFiles": [
+    "Projects/Programming Projects/LFS Gentoo/Linux From Scratch Project.md",
     "Image dump/LFS dump/screenshot_27112025_100809.jpg",
     "Image dump/LFS dump/screenshot_27112025_095202.jpg",
     "Image dump/LFS dump/screenshot_27112025_094509.jpg",
     "Image dump/LFS dump/screenshot_27112025_093957.jpg",
     "Image dump/LFS dump/screenshot_27112025_090338.jpg",
     "Image dump/LFS dump/screenshot_27112025_085149.jpg",
-    "Projects/Programming Projects/LFS Gentoo/Linux From Scratch Project.md",
     "README.md",
     "Projects/Programming Projects/LFS Gentoo",
     "Notes/Learning Windows OS.md",
@@ -345,7 +344,6 @@
     "Image dump/LFS dump/screenshot_20112025_153231.jpg",
     "Image dump/LFS dump/screenshot_20112025_152436.jpg",
     "Image dump/LFS dump/screenshot_20112025_152430.jpg",
-    "Image dump/LFS dump/screenshot_20112025_152205.jpg",
     "Image dump/LFS dump",
     "Projects/TryHackMe/project template.md",
     "Projects/Programming Projects/Linux Antivirus/readme.md",
