@@ -121,10 +121,10 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 <summary><h2>Programming Projects</h2></summary>
 	<div>
 	    <ul>
-	        <li><a href="Projects/Coding Projects/firstjavaproject/src/main/java/com/example/Main.java">Basics of Java (In-Progress)</a></li>
-			<li><a href="Projects/Coding Projects/Login Analyzer/readme.md">Login Analyzer Project</a></li>
-			<li><a href="Projects/Coding Projects/Linux Antivirus/readme.md">Automated Linux Antivirus Project</a></li>
-			<li><a href="Projects/Coding Projects/LFS Gentoo/Linux From Scratch Project.md">Linux from Scratch Project (In-Progress)</a></li>
+	        <li><a href="Projects/Programming Projects/firstjavaproject/src/main/java/com/example/Main.java">Basics of Java (In-Progress)</a></li>
+			<li><a href="Projects/Programming Projects/Login Analyzer/readme.md">Login Analyzer Project</a></li>
+			<li><a href="Projects/Programming Projects/Linux Antivirus/readme.md">Automated Linux Antivirus Project</a></li>
+			<li><a href="Projects/Programming Projects/LFS Gentoo/Linux From Scratch Project.md">Linux from Scratch Project (In-Progress)</a></li>
 	    </ul>
 	</div>
 </details>

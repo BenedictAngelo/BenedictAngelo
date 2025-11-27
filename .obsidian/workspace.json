@@ -12,7 +12,7 @@
             "type": "tabs",
             "children": [
               {
-                "id": "3d071d257201ddac",
+                "id": "7ec270e22891c76c",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -23,6 +23,20 @@
                   },
                   "icon": "lucide-file",
                   "title": "README"
+                }
+              },
+              {
+                "id": "3d071d257201ddac",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Projects/Programming Projects/LFS Gentoo/Linux From Scratch Project.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Linux From Scratch Project"
                 }
               },
               {
@@ -191,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 334.5
   },
   "right": {
     "id": "4d289702892f145b",
@@ -324,16 +338,16 @@
       "graph:Open graph view": false
     }
   },
-  "active": "3d071d257201ddac",
+  "active": "7ec270e22891c76c",
   "lastOpenFiles": [
     "Projects/Programming Projects/LFS Gentoo/Linux From Scratch Project.md",
+    "README.md",
     "Image dump/LFS dump/screenshot_27112025_100809.jpg",
     "Image dump/LFS dump/screenshot_27112025_095202.jpg",
     "Image dump/LFS dump/screenshot_27112025_094509.jpg",
     "Image dump/LFS dump/screenshot_27112025_093957.jpg",
     "Image dump/LFS dump/screenshot_27112025_090338.jpg",
     "Image dump/LFS dump/screenshot_27112025_085149.jpg",
-    "README.md",
     "Projects/Programming Projects/LFS Gentoo",
     "Notes/Learning Windows OS.md",
     "Image dump/CV.pdf",
