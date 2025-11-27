@@ -1,5 +1,8 @@
 {
   "cssTheme": "Border",
   "theme": "moonstone",
-  "accentColor": "#869cf3"
+  "accentColor": "#869cf3",
+  "enabledCssSnippets": [
+    "hide_footnotes"
+  ]
 }
