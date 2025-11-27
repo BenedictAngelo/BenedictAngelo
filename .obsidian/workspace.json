@@ -109,7 +109,8 @@
                   "title": "Linux From Scratch Project"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "1939ab96c2178929",
@@ -205,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 334.5,
+    "collapsed": true
   },
   "right": {
     "id": "4d289702892f145b",
@@ -321,7 +323,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 246.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -338,26 +341,27 @@
       "graph:Open graph view": false
     }
   },
-  "active": "7ec270e22891c76c",
+  "active": "3d071d257201ddac",
   "lastOpenFiles": [
+    "Image dump/LFS dump/screenshot_27112025_115925.jpg",
+    "Image dump/LFS dump/screenshot_27112025_114950.jpg",
+    "Image dump/LFS dump/screenshot_27112025_112047.jpg",
+    "Image dump/LFS dump/screenshot_27112025_111016.jpg",
+    "Image dump/LFS dump/screenshot_27112025_110845.jpg",
+    "Image dump/LFS dump/screenshot_27112025_110830.jpg",
+    "Image dump/LFS dump/screenshot_27112025_104218.jpg",
     "Projects/Programming Projects/LFS Gentoo/Linux From Scratch Project.md",
+    "Image dump/LFS dump/screenshot_27112025_103703.jpg",
     "README.md",
     "Image dump/LFS dump/screenshot_27112025_100809.jpg",
     "Image dump/LFS dump/screenshot_27112025_095202.jpg",
     "Image dump/LFS dump/screenshot_27112025_094509.jpg",
-    "Image dump/LFS dump/screenshot_27112025_093957.jpg",
-    "Image dump/LFS dump/screenshot_27112025_090338.jpg",
-    "Image dump/LFS dump/screenshot_27112025_085149.jpg",
     "Projects/Programming Projects/LFS Gentoo",
     "Notes/Learning Windows OS.md",
     "Image dump/CV.pdf",
     "Projects/Homelab Projects/Mini Homelab.md",
     "Notes/Linux Cheat Sheet.md",
     "Notes/TryHackMe Notes.md",
-    "Image dump/LFS dump/screenshot_20112025_154237.jpg",
-    "Image dump/LFS dump/screenshot_20112025_153231.jpg",
-    "Image dump/LFS dump/screenshot_20112025_152436.jpg",
-    "Image dump/LFS dump/screenshot_20112025_152430.jpg",
     "Image dump/LFS dump",
     "Projects/TryHackMe/project template.md",
     "Projects/Programming Projects/Linux Antivirus/readme.md",
