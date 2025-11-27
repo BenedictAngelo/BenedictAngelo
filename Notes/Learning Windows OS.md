@@ -248,9 +248,6 @@ There are various ways to view/edit the registry. One way is to use the **Regis
 **Windows domain** is a group of users and computers under the administration of a given business. The main idea behind a domain is to centralise the administration of common components of a Windows computer network in a single repository called **Active Directory (AD)**. The server that runs the Active Directory services is known as a **Domain Controller (DC)**.
 
 
-
-
-
 ---
 *Reference:*
 - https://tryhackme.com/room/windowsfundamentals1xbx
