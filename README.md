@@ -125,7 +125,6 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 			<li><a href="Projects/Programming Projects/Login Analyzer/readme.md">Login Analyzer Project</a></li>
 			<li><a href="Projects/Programming Projects/Linux Antivirus/readme.md">Automated Linux Antivirus Project</a></li>
 			<li><a href="Projects/Programming Projects/LFS Gentoo/Linux From Scratch Project.md">Linux from Scratch Project (In-Progress)</a></li>
-			<li><a href="Projects/Programming Projects/Python Programming/readme.md">Python Exercises</a></li>
 	    </ul>
 	</div>
 </details>
