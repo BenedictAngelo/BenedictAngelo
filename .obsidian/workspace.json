@@ -4,136 +4,109 @@
     "type": "split",
     "children": [
       {
-        "id": "58aa556ca8726689",
-        "type": "split",
+        "id": "74c92128267aa9aa",
+        "type": "tabs",
         "children": [
           {
-            "id": "74c92128267aa9aa",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7ec270e22891c76c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "README.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "README"
-                }
+            "id": "7ec270e22891c76c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": true
               },
-              {
-                "id": "3d071d257201ddac",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Projects/Programming Projects/LFS Gentoo/Linux From Scratch Project.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Linux From Scratch Project"
-                }
-              },
-              {
-                "id": "a9e659615a80b3b0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/Learning Windows OS.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Learning Windows OS"
-                }
-              },
-              {
-                "id": "9461b89f7b941f74",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/TryHackMe Notes.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "TryHackMe Notes"
-                }
-              },
-              {
-                "id": "b4fa24bbe5ca6fbc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/Linux Cheat Sheet.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Linux Cheat Sheet"
-                }
-              },
-              {
-                "id": "73ef37eb1dfd504e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Projects/IT Projects/Mini Homelab.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Mini Homelab"
-                }
-              },
-              {
-                "id": "41b257b0e9aadb55",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Projects/Programming Projects/LFS Gentoo/Linux From Scratch Project.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Linux From Scratch Project"
-                }
-              }
-            ],
-            "currentTab": 1
+              "icon": "lucide-file",
+              "title": "README"
+            }
           },
           {
-            "id": "1939ab96c2178929",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6487049fed7eb6c7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Projects/Programming Projects/LFS Gentoo/Linux From Scratch Project.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Linux From Scratch Project"
-                }
-              }
-            ]
+            "id": "3d071d257201ddac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Programming Projects/LFS Gentoo/Linux From Scratch Project.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Linux From Scratch Project"
+            }
+          },
+          {
+            "id": "a9e659615a80b3b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Learning Windows OS.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Learning Windows OS"
+            }
+          },
+          {
+            "id": "9461b89f7b941f74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/TryHackMe Notes.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "TryHackMe Notes"
+            }
+          },
+          {
+            "id": "b4fa24bbe5ca6fbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Linux Cheat Sheet.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Linux Cheat Sheet"
+            }
+          },
+          {
+            "id": "73ef37eb1dfd504e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/IT Projects/Mini Homelab.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Mini Homelab"
+            }
+          },
+          {
+            "id": "41b257b0e9aadb55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Programming Projects/LFS Gentoo/Linux From Scratch Project.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Linux From Scratch Project"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -341,8 +314,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "3d071d257201ddac",
+  "active": "a9e659615a80b3b0",
   "lastOpenFiles": [
+    "Notes/TryHackMe Notes.md",
+    "Projects/Programming Projects/LFS Gentoo/Linux From Scratch Project.md",
+    "Projects/Programming Projects/Demo/vendas_massivas.csv",
+    "Projects/Programming Projects/Demo/sample.csv",
+    "Untitled.md",
     "Image dump/LFS dump/screenshot_27112025_115925.jpg",
     "Image dump/LFS dump/screenshot_27112025_114950.jpg",
     "Image dump/LFS dump/screenshot_27112025_112047.jpg",
@@ -350,18 +328,15 @@
     "Image dump/LFS dump/screenshot_27112025_110845.jpg",
     "Image dump/LFS dump/screenshot_27112025_110830.jpg",
     "Image dump/LFS dump/screenshot_27112025_104218.jpg",
-    "Projects/Programming Projects/LFS Gentoo/Linux From Scratch Project.md",
     "Image dump/LFS dump/screenshot_27112025_103703.jpg",
     "README.md",
     "Image dump/LFS dump/screenshot_27112025_100809.jpg",
     "Image dump/LFS dump/screenshot_27112025_095202.jpg",
-    "Image dump/LFS dump/screenshot_27112025_094509.jpg",
     "Projects/Programming Projects/LFS Gentoo",
     "Notes/Learning Windows OS.md",
     "Image dump/CV.pdf",
     "Projects/Homelab Projects/Mini Homelab.md",
     "Notes/Linux Cheat Sheet.md",
-    "Notes/TryHackMe Notes.md",
     "Image dump/LFS dump",
     "Projects/TryHackMe/project template.md",
     "Projects/Programming Projects/Linux Antivirus/readme.md",
@@ -371,8 +346,6 @@
     "Projects/Coding Projects/Python project1.py",
     "Projects/Programming Projects/Login Analyzer/suspicious.sql",
     "Projects/Programming Projects/Login Analyzer/suspicious.txt",
-    "Projects/Programming Projects/Login Analyzer/analyzer.py",
-    "Projects/Coding Projects/Mini Security Project/data.db-journal",
     "Projects/Programming Projects/readme.md",
     "Image dump/Mini Home Lab/readme.md",
     "Projects/TryHackMe/Learning-Path-Labs/readme.md",
@@ -387,7 +360,6 @@
     "copilot/copilot-custom-prompts/Make shorter.md",
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md"
+    "copilot/copilot-custom-prompts/Generate glossary.md"
   ]
 }
