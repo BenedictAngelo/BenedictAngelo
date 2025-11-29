@@ -31,5 +31,7 @@ if Age >= 60 and not yes_employed:                            # 'not' flips the 
 elif Age > 18 and Age <60 and yes_employed:
     print("and keep working")
 
-# conditional expression
-print("but you must RIP" if Age >= 100 else print())              # basically a one line shortcut
+    # conditional expression
+print("but you must RIP" if Age >= 100 else print())   # basically a one line shortcut
+
+
