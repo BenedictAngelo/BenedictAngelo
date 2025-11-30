@@ -142,14 +142,13 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 </details>
 
 <details>
-<summary><h2>Exercises</h2></summary>
+<summary><h2>Programming Exercises</h2></summary>
 <div>
 	  <ul>
-	  	<li><a href="Projects/Programming Projects/Python Programming/Basics_part1.py">Learning python basics part 1</a></li>
-		<li><a href="Projects/Programming Projects/Python Programming/Basics_part2.py">Learning python basics part 2</a></li>
-		<li><a href="Projects/Programming Projects/Python Programming/Basics_part3.py">Learning python basics part 3</a></li>
-		<li><a href="Projects/Programming Projects/Python Programming/simple_money_calc.py">Simple money calculator</a></li>
-		
+	  	<li><a href="Programming exercises/Python Programming/Basics_part1.py">Learning python basics part 1</a></li>
+		<li><a href="Programming exercises/Python Programming/Basics_part2.py">Learning python basics part 2</a></li>
+		<li><a href="Programming exercises/Python Programming/Basics_part3.py">Learning python basics part 3</a></li>
+		<li><a href="Programming exercises/Python Programming/simple_money_calc.py">Simple money calculator</a></li>
 	  </ul>
 </div>
 </details>
