@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -314,8 +314,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "a9e659615a80b3b0",
+  "active": "9461b89f7b941f74",
   "lastOpenFiles": [
+    "Notes/Learning Windows OS.md",
     "Notes/TryHackMe Notes.md",
     "Projects/Programming Projects/LFS Gentoo/Linux From Scratch Project.md",
     "Projects/Programming Projects/Demo/vendas_massivas.csv",
@@ -333,7 +334,6 @@
     "Image dump/LFS dump/screenshot_27112025_100809.jpg",
     "Image dump/LFS dump/screenshot_27112025_095202.jpg",
     "Projects/Programming Projects/LFS Gentoo",
-    "Notes/Learning Windows OS.md",
     "Image dump/CV.pdf",
     "Projects/Homelab Projects/Mini Homelab.md",
     "Notes/Linux Cheat Sheet.md",
