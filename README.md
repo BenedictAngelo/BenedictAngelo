@@ -1,7 +1,6 @@
 # Hello, I'm Benedict Angelo A. Bumatay
 
 <a href="https://www.linkedin.com/in/benedict-angelo-a-bumatay/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://tryhackme.com/p/benedictangeloaguirre2" target="_blank">
-  <img src="https://img.shields.io/badge/-TryHackMe-BD2323?&style=for-the-badge&logo=tryhackme&logoColor=white" />
 </a>
 
 
@@ -124,6 +123,18 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 			<li><a href="Projects/Programming Projects/Login Analyzer/readme.md">Login Analyzer Project</a></li>
 			<li><a href="Projects/Programming Projects/Linux Antivirus/readme.md">Automated Linux Antivirus Project</a></li>
 			<li><a href="Projects/Programming Projects/LFS Gentoo/Linux From Scratch Project.md">Linux from Scratch Project (In-Progress)</a></li>
+			<details>
+			<summary><h3>Programming Exercises</h3></summary>
+				<div>
+					<ul>
+						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/cardnumber_reader.py">Card number reader</a></li>
+						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/user_input_exercise.py">User input exercise</a></li>
+						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/simple_money_calc.py">Simple money calculator</a></li>
+	  					<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Basics_part1.py">Learning python basics part 1</a></li>
+						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Basics_part2.py">Learning python basics part 2</a></li>
+						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Basics_part3.py">Learning python basics part 3</a></li>
+						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Basics_part4.py">Learning python basics part 4</a></li>
+			</details>
 	    </ul>
 	</div>
 </details>
