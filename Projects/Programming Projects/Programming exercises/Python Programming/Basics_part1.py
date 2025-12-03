@@ -1,4 +1,4 @@
-## Strings
+#Strings
 First_Name = "Benedict Angelo"
 Surname = "Bumatay"
 Middle_Name = "Aguirre"
