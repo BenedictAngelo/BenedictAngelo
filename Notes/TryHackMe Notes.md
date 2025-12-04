@@ -240,6 +240,70 @@ When an SSL/TLS (Secure Sockets Layer/Transport Layer Security) certificate is 
 
 Go to [crt.sh](https://crt.sh/) and search for the domain name **tryhackme.com**, find the entry that was logged at **2020-12-26** and enter the domain below to answer the question.
 
+Search engines contain trillions of links to more than a billion websites, which can be an excellent resource for finding new subdomains. Using advanced search methods on websites like Google, such as the `site: filter`, can narrow the search results. For example, `site:*.domain.com -site:www.domain.com` would only contain results leading to the domain name domain.com but exclude any links to www.domain.com; therefore, it shows us only subdomain names belonging to domain.com.
+
+**Bruteforce DNS (Domain Name System) Enumeration**
+
+- By attempting tens, hundreds, thousands, or even millions of **unique subdomains from a pre-defined list** of frequently used subdomains, and it automates it with a tool to speed up the procedure.
+
+Tool:   
+• **dnsrecon**If you're running Kali Linux, it's already pre-installed, and you can go to the "terminal" and type "**dnsrecon**" to see how to use it.
+
+
+
+![](https://miro.medium.com/v2/resize:fit:700/1*w_By_v7mxCiFxGkAxjsWwA.png)
+
+
+
+![](https://miro.medium.com/v2/resize:fit:394/1*xre0IWWQ28OPkrrksJe-8g.png)
+
+It expedites the process of discovering OSINT subdomains.
+
+1st - Install sublist3r in Kali Linux  
+• **sudo apt install sublist3r**2nd Run sublist3r  
+• type: **sublist3r**
+
+Subdomains aren’t usually hosted in DNS results that are publicly accessible, such as:
+
+- development versions of a web application
+- administration portals
+
+DNS records can be **stored on a private DNS server** or on the **developer’s workstations** in the **/etc/hosts** file (or **c:\windows\system32\drivers\etc\hosts file for Windows users**), which translates domain names to IP addresses.
+
+Web servers can host numerous websites from a single server. • When a client requests a website, the server determines which website the client wants based on the **Host Header**.
+
+What we can do:
+
+- Make use of this **host header by modifying it and checking the response** to see whether we’ve discovered a new website, and it’s very similar to DNS Brute Force in that it uses a tool to seek it out and automates the process.
+
+Tool:  
+• **ffuf**It comes pre-installed with Kali LinuxExample:   
+• **ffuf -w /usr/share/wordlists/SecLists/Discovery/DNS/namelist.txt -H "Host: FUZZ.acmeitsupport.thm" -u http://<domain name/ip address>**Switches:  
+**-w** > wordlist  
+**-H** > adds/edits a header  
+**-u** > url  
+**-fs** > tells ffuf to ignore any results that are of the specified size
+
+**[Question 6.1] What is the first subdomain discovered?**
+
+![](https://miro.medium.com/v2/resize:fit:664/1*BnMAPCi4UN0u7r89YKiFDw.png)
+
+ffuf -w namelist.txt -H “Host: FUZZ.acmeitsupport.thm” -u http://<IP address>
+
+Notice that there are numerous reports with the “Size” of “2395” and that you should then filter out the “2395” to see what the result could be.
+
+Method: • ffuf -w namelist.txt -H "Host: FUZZ.acmeitsupport.thm" -u [http://10.10.186.57](http://10.10.186.57/) **-fs 2395**By including the switch "-fs" and the value "2395," it will filter and eliminate all of the "2395"
+
+
+![](https://miro.medium.com/v2/resize:fit:700/1*snYTebPbNAJg5QqgxdNm0w.png)
+
+![](https://miro.medium.com/v2/resize:fit:700/1*RuB6F1FD3OKgxHmMiaUqWg.png)
+
+
+
+
+
+
 ---
 
 
