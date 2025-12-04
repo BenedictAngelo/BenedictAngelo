@@ -135,7 +135,7 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Basics_part2.py">Learning python basics part 2</a></li>
 						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Basics_part3.py">Learning python basics part 3</a></li>
 						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Basics_part4.py">Learning python basics part 4</a></li>
-						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Basics_part5.py">Learning python basics part 4</a></li>
+						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Basics_part5.py">Learning python basics part 5</a></li>
 			</details>
 	    </ul>
 	</div>
