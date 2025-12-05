@@ -8,3 +8,9 @@ for x in reversed(range(1, 11)):
     print(x)
 
 print("Time is up")
+
+for n in range(1, 21):
+    if n == 13:
+        break
+    else:
+        print(n)
