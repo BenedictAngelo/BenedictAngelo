@@ -90,33 +90,6 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 </details>
 
 <details>
-<summary><h2>TryHackMe Projects</h2></summary>
-	<ul>
-		<details>
-		  <summary>Learning Path Labs</summary>
-		<div>
-		    <ul>
-		        <ul>
-		            <li>Still ongoing</li>
-		        </ul>
-		    </ul>
-		</div>
-		</details>
-		<details>
-		  <summary>Capture the Flags</summary>
-		<div>
-		    <ul>
-		        <ul>
-		            <li>Still ongoing</a></li>
-		        </ul>
-		    </ul>
-		</div>
-		</details>
-	</ul>
-</details>
-
-
-<details>
 <summary><h2>Programming Projects</h2></summary>
 	<div>
 	    <ul>

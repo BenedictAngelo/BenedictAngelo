@@ -105,8 +105,27 @@
               "title": "Linux From Scratch Project"
             }
           }
-        ],
-        "currentTab": 3
+        ]
+      },
+      {
+        "id": "3d07e4dca08d4f6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73cfa13834a66ad1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -296,8 +315,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5,
-    "collapsed": true
+    "width": 246.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -314,10 +332,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "9461b89f7b941f74",
+  "active": "7ec270e22891c76c",
   "lastOpenFiles": [
-    "Notes/Learning Windows OS.md",
     "Notes/TryHackMe Notes.md",
+    "Notes/Learning Windows OS.md",
     "Projects/Programming Projects/LFS Gentoo/Linux From Scratch Project.md",
     "Projects/Programming Projects/Demo/vendas_massivas.csv",
     "Projects/Programming Projects/Demo/sample.csv",
