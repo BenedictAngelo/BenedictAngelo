@@ -198,8 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5,
-    "collapsed": true
+    "width": 334.5
   },
   "right": {
     "id": "4d289702892f145b",
@@ -334,12 +333,13 @@
   },
   "active": "7ec270e22891c76c",
   "lastOpenFiles": [
+    "Untitled.md",
+    "README.md",
     "Notes/TryHackMe Notes.md",
     "Notes/Learning Windows OS.md",
     "Projects/Programming Projects/LFS Gentoo/Linux From Scratch Project.md",
     "Projects/Programming Projects/Demo/vendas_massivas.csv",
     "Projects/Programming Projects/Demo/sample.csv",
-    "Untitled.md",
     "Image dump/LFS dump/screenshot_27112025_115925.jpg",
     "Image dump/LFS dump/screenshot_27112025_114950.jpg",
     "Image dump/LFS dump/screenshot_27112025_112047.jpg",
@@ -348,7 +348,6 @@
     "Image dump/LFS dump/screenshot_27112025_110830.jpg",
     "Image dump/LFS dump/screenshot_27112025_104218.jpg",
     "Image dump/LFS dump/screenshot_27112025_103703.jpg",
-    "README.md",
     "Image dump/LFS dump/screenshot_27112025_100809.jpg",
     "Image dump/LFS dump/screenshot_27112025_095202.jpg",
     "Projects/Programming Projects/LFS Gentoo",
