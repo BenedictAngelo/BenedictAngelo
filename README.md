@@ -111,6 +111,8 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Part5_Specifiers.py">Learning specifiers</a></li>
 						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Part6_ForLoops.py">Learning 'For' loops</a></li>
 						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Part7_NestedLoops.py">Learning Nested loops</a></li>
+					</ul>
+				<div>
 			</details>
 	    </ul>
 	</div>
