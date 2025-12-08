@@ -104,11 +104,13 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/cardnumber_reader.py">Card number reader</a></li>
 						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/user_input_exercise.py">User input exercise</a></li>
 						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/simple_money_calc.py">Simple money calculator</a></li>
-	  				<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Basics_part1.py">Learning python basics part 1</a></li>
-						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Basics_part2.py">Learning python basics part 2</a></li>
-						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Basics_part3.py">Learning python basics part 3</a></li>
-						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Basics_part4.py">Learning python basics part 4</a></li>
-						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Basics_part5.py">Learning python basics part 5</a></li>
+			  			<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Part1_Basics.py">Learning python basics</a></li>
+						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Part2_LogicOperatorspy">Learning Logic operators</a></li>
+						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Part3_Strings.py">Learning string operators</a></li>
+						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Part4_Indexing.py">Learning Indexing</a></li>
+						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Part5_Specifiers.py">Learning specifiers</a></li>
+						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Part6_ForLoops.py">Learning 'For' loops</a></li>
+						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Part7_NestedLoops.py">Learning Nested loops</a></li>
 			</details>
 	    </ul>
 	</div>
