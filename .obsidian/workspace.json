@@ -105,27 +105,8 @@
               "title": "Linux From Scratch Project"
             }
           }
-        ]
-      },
-      {
-        "id": "3d07e4dca08d4f6a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "73cfa13834a66ad1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -198,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 334.5,
+    "collapsed": true
   },
   "right": {
     "id": "4d289702892f145b",
@@ -331,10 +313,19 @@
       "graph:Open graph view": false
     }
   },
-  "active": "7ec270e22891c76c",
+  "active": "41b257b0e9aadb55",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Image dump/LFS dump/screenshot_08122025_111259.jpg",
+    "Image dump/LFS dump/screenshot_08122025_110859.jpg",
+    "Image dump/LFS dump/screenshot_08122025_110156.jpg",
+    "Image dump/LFS dump/screenshot_08122025_105754.jpg",
+    "Image dump/LFS dump/screenshot_08122025_104429.jpg",
+    "Image dump/LFS dump/screenshot_08122025_102330.jpg",
+    "Image dump/LFS dump/screenshot_08122025_101820.jpg",
+    "Image dump/LFS dump/screenshot_08122025_100543.jpg",
+    "Image dump/LFS dump/screenshot_08122025_100145.jpg",
     "README.md",
+    "Untitled.md",
     "Notes/TryHackMe Notes.md",
     "Notes/Learning Windows OS.md",
     "Projects/Programming Projects/LFS Gentoo/Linux From Scratch Project.md",
@@ -342,14 +333,6 @@
     "Projects/Programming Projects/Demo/sample.csv",
     "Image dump/LFS dump/screenshot_27112025_115925.jpg",
     "Image dump/LFS dump/screenshot_27112025_114950.jpg",
-    "Image dump/LFS dump/screenshot_27112025_112047.jpg",
-    "Image dump/LFS dump/screenshot_27112025_111016.jpg",
-    "Image dump/LFS dump/screenshot_27112025_110845.jpg",
-    "Image dump/LFS dump/screenshot_27112025_110830.jpg",
-    "Image dump/LFS dump/screenshot_27112025_104218.jpg",
-    "Image dump/LFS dump/screenshot_27112025_103703.jpg",
-    "Image dump/LFS dump/screenshot_27112025_100809.jpg",
-    "Image dump/LFS dump/screenshot_27112025_095202.jpg",
     "Projects/Programming Projects/LFS Gentoo",
     "Image dump/CV.pdf",
     "Projects/Homelab Projects/Mini Homelab.md",

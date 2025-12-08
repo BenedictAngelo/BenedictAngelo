@@ -69,7 +69,7 @@ Learning the building blocks of installing a Linux Operating System by doing Lin
 
 ![](../../../Image%20dump/LFS%20dump/screenshot_27112025_112047.jpg)
 
-- Then used `ssh root@127.0.0.1` or  much better to ignore the host custom console`TERM=xterm-256color ssh -p 2222 root@127.0.0.1`  now to SSH into root of the VM, it became 127.0.0.1 because of localhost port forwarding rule set earlier, then entered the password of `1234` of VM Gentoo root.
+- Then used `ssh root@127.0.0.1` or  much better to ignore the host custom console`![](../../../Image%20dump/LFS%20dump/screenshot_08122025_100145.jpg)`  now to SSH into root of the VM, it became 127.0.0.1 because of localhost port forwarding rule set earlier, then entered the password of `1234` of VM Gentoo root.
 
 ```
 cat > version-check.sh << "EOF"
@@ -91,7 +91,55 @@ bash version-check.sh
 
 ![](../../../Image%20dump/LFS%20dump/screenshot_27112025_115925.jpg)
 
-- Run `lsblk` to list block devices, and here I see the disk I want to partitioned named `sda` wit 50GB of dynamic storage I set earlier in virtualbox settings
+- Run `lsblk` to list block devices, and here I see the disk I want to partition the name `sda` with 50GB of dynamic storage I set earlier in virtualbox settings
+
+![](../../../Image%20dump/LFS%20dump/screenshot_08122025_100145.jpg)
+
+- Now I typed `cfdisk /dev/sda` to see a GUI based partition editor.
+
+![](../../../Image%20dump/LFS%20dump/screenshot_08122025_100543.jpg)
+
+- Select [^6]`gpt` by pressing enter, then choose `New`.
+- Then Partition size: 1G, for boot partition, press enter.
+
+![](../../../Image%20dump/LFS%20dump/screenshot_08122025_101820.jpg)
+
+- It should look like this, now go to `Type`, navigate using arrow keys, select `EFI System` since I am in a UEFI.
+
+![](../../../Image%20dump/LFS%20dump/screenshot_08122025_102330.jpg)
+
+- Now do the same for the [^7]**swap** partition, I allocated 6G for 6GB, allocating swap partition should be same amount of your RAM or double.
+
+*refer to: https://opensource.com/article/19/2/swap-space-poll*
+
+![](../../../Image%20dump/LFS%20dump/screenshot_08122025_104429.jpg)
+
+- So far everything should look like this.
+
+![](../../../Image%20dump/LFS%20dump/screenshot_08122025_105754.jpg)
+
+- Now for the root file system, just choose the remainder, no need to choose type, then choose `Write`, type 'yes' then `Quit`. Now were back at the terminal, then clear the space.
+
+![](../../../Image%20dump/LFS%20dump/screenshot_08122025_110156.jpg)
+
+- type `lsblk` again to see if it is successful, it should look like this
+
+#### 2.3 File systems
+
+**Now instead of choosing [^8]`ext4`, I will choose [^9]`btrfs` for more configuration and snapshot support.**
+
+![](../../../Image%20dump/LFS%20dump/screenshot_08122025_110859.jpg)
+
+- I typed `mkfs.btrfs /dev/sda3` for *btrfs*, and `mkfs.ext4 [storage]` for *ext4*, but I am not going for that.
+
+![](../../../Image%20dump/LFS%20dump/screenshot_08122025_111259.jpg)
+
+- Then `mkfs.fat -F 32 /dev/sda1` for boot, then `mkswap /dev/sda2` for swap.
+
+
+
+
+
 
 
 
@@ -115,3 +163,15 @@ bash version-check.sh
 [^2]: Gentoo Linux is a free, open-source Linux distribution built using the Portage package management system, which compiles software from source code tailored to the user's specific hardware and preferences. Unlike binary distributions that provide pre-compiled software, Gentoo emphasizes customization, performance optimization, and user control by compiling packages locally, often resulting in faster and more efficient systems. It is described as a "meta-distribution" due to its high adaptability, allowing users to create highly unique and personalized configurations.
 
 [^3]: Port forwarding is a networking technique that allows external devices on the internet to connect to a specific device within a private network, such as a home or office network, by redirecting communication requests from a public IP address and port to a designated internal IP address and port. This is necessary because devices on private networks typically use private IP addresses that are not directly accessible from the internet, and routers act as gatekeepers, blocking unsolicited incoming traffic.
+
+[^4]: 
+
+[^5]: 
+
+[^6]: GPT is a widely used and supported partition table scheme that's suitable for modern Linux systems. It allows for more flexibility in terms of partition layout and provides better support for UEFI booting.
+
+[^7]: In traditional Linux systems, a swap partition is a separate partition on a hard drive or solid-state drive (SSD) that's used as an extension of the system's RAM. Its primary purpose is to provide temporary storage for data that's being accessed by the CPU while it's being swapped out of physical memory.
+
+[^8]: ext4, or the fourth extended file system, is a journaling file system that serves as the default for many Linux distributions. It is a mature and stable filesystem, known for its reliability and performance, with backward compatibility with earlier Ext versions like Ext3 and Ext2. Ext4 supports file systems up to 1 exbibyte (EiB) in size and individual files up to 16 tebibytes (TiB). It uses journaling to ensure data integrity during unexpected shutdowns, such as power loss. Ext4 is widely used in production environments due to its proven stability and lower overhead, making it a preferred choice for traditional server workloads.
+
+[^9]: Btrfs, short for B-Tree file system, is a modern copy-on-write (CoW) file system designed to address scalability and advanced storage management needs. It supports file systems up to 16 exbibytes in size and individual files up to 16 exbibytes, offering significantly greater scalability than Ext4. Btrfs includes advanced features such as built-in support for snapshots (both read-only and writable), data and metadata checksumming for integrity, compression at the filesystem level, deduplication, and native RAID support. It also enables dynamic volume management, allowing a single filesystem to span multiple disks seamlessly. While Btrfs is considered more feature-rich and suitable for modern desktop and enterprise use cases requiring advanced capabilities, it is generally seen as having lower stability compared to Ext4, especially when using newer or complex features.
