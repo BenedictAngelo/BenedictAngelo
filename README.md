@@ -100,7 +100,7 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 			<summary><h3>Python programming</h3></summary>
 				<div>
 					<ul>
-						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/While_loop.py">While Loop</a></li>
+						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/While_loop.py">While Loops</a></li>
 						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/cardnumber_reader.py">Card number reader</a></li>
 						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/user_input_exercise.py">User input exercise</a></li>
 						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/simple_money_calc.py">Simple money calculator</a></li>
