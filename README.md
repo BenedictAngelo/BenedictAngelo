@@ -94,8 +94,21 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 	<div>
 	    <ul>
 			<li><a href="Projects/Programming Projects/Login Analyzer/readme.md">Login Analyzer Project</a></li>
+			
 			<li><a href="Projects/Programming Projects/Linux Antivirus/readme.md">Automated Linux Antivirus Project</a></li>
+			
 			<li><a href="Projects/Programming Projects/LFS Gentoo/Linux From Scratch Project.md">Linux from Scratch Project (In-Progress)</a></li>
+			
+			<details>
+			<summary><h3>Rust programming</h3></summary>
+				<div>
+					<ul>
+						<li><a href="Projects/Programming Projects/Programming exercises/Rust Programming/Part1_HelloWorld/src/main.rs">Hello World</a></li>
+						<li><a href="Projects/Programming Projects/Programming exercises/Rust Programming/Part2_Variables/src/main.rs">Learning Variables</a></li>
+					</ul>
+				<div>
+			</details>
+			
 			<details>
 			<summary><h3>Python programming</h3></summary>
 				<div>

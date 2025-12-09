@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -35,8 +35,7 @@
               "title": "readme"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,8 +241,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "41b257b0e9aadb55",
+  "active": "7ec270e22891c76c",
   "lastOpenFiles": [
+    "Projects/Programming Projects/Programming exercises/Rust Programming/readme.md",
     "Projects/Programming Projects/Programming exercises/Rust Programming/Part2_Variables/target/debug/deps/Part2_Variables-436ef9d2803599d3.tmp72dbecf",
     "Projects/Programming Projects/Programming exercises/Rust Programming/Part2_Variables/target/debug/incremental/Part2_Variables-33oi7w8osz0xe/s-hdqh4nj7gn-0cxpuwt-eivquan4fav3pnld3ih1cb0pt/work-products.bin",
     "Projects/Programming Projects/Programming exercises/Rust Programming/Part2_Variables/target/debug/incremental/Part2_Variables-33oi7w8osz0xe/s-hdqh4nj7gn-0cxpuwt-eivquan4fav3pnld3ih1cb0pt/query-cache.bin",
@@ -254,9 +254,7 @@
     "Projects/Programming Projects/Programming exercises/Rust Programming/Part2_Variables/target/debug/incremental/Part2_Variables-33oi7w8osz0xe/s-hdqh4nj7gn-0cxpuwt-eivquan4fav3pnld3ih1cb0pt/8ft4wra6yta5uf9hjgly13xg4.o",
     "Projects/Programming Projects/Programming exercises/Rust Programming/Part2_Variables/target/debug/incremental/Part2_Variables-33oi7w8osz0xe/s-hdqh4nj7gn-0cxpuwt-eivquan4fav3pnld3ih1cb0pt/47nkm7zezbbbq7hi046zwq9ye.o",
     "Projects/Programming Projects/Programming exercises/Rust Programming/Part2_Variables/target/debug/incremental/Part2_Variables-33oi7w8osz0xe/s-hdqh4nj7gn-0cxpuwt-eivquan4fav3pnld3ih1cb0pt/0y4uziyqv2uuwhl23sey2zxx7.o",
-    "Projects/Programming Projects/Programming exercises/Rust Programming/Part2_Variables/target/debug/incremental/Part2_Variables-33oi7w8osz0xe/s-hdqh4nj7gn-0cxpuwt-eivquan4fav3pnld3ih1cb0pt/08wuqtwgns6dheg6kh7oog5xs.o",
     "Projects/Programming Projects/Programming exercises/Python Programming/readme.md",
-    "Projects/Programming Projects/Programming exercises/Rust Programming/readme.md",
     "README.md",
     "Projects/Programming Projects/LFS Gentoo/Linux From Scratch Project.md",
     "Projects/Programming Projects/readme.md",
