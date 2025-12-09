@@ -102,6 +102,8 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 					<ul>
 						<li><a href="Projects/Programming Projects/Programming exercises/Rust Programming/Part1_HelloWorld/src/main.rs">Hello World</a></li>
 						<li><a href="Projects/Programming Projects/Programming exercises/Rust Programming/Part2_Variables/src/main.rs">Learning Variables</a></li>
+						<li><a href="Projects/Programming Projects/Programming exercises/Rust Programming/Part3_Variables2/src/main.rs">Learning Variables Part 2</a></li>
+						<li><a href="Projects/Programming Projects/Programming exercises/Rust Programming/Part4_Compound_Data_Types/src/main.rs">Learning Compound Data Types</a></li>
 					</ul>
 				<div>
 			</details>

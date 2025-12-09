@@ -108,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 257.5
   },
   "right": {
     "id": "4d289702892f145b",
@@ -243,17 +243,18 @@
   },
   "active": "7ec270e22891c76c",
   "lastOpenFiles": [
+    "Projects/Programming Projects/Programming exercises/Rust Programming/Part4_Compound_Data_Types/target/debug/deps/Part3_Compound_Data_Types-714eb82eb06decf6.tmpe7a9177",
+    "Projects/Programming Projects/Programming exercises/Rust Programming/Part4_Compound_Data_Types/target/debug/incremental/Part3_Compound_Data_Types-21ryevf60gh6o/s-hdqmy4ska3-11hq2i2-4amedi7arngvuk1ogf8tz4hrv/work-products.bin",
+    "Projects/Programming Projects/Programming exercises/Rust Programming/Part4_Compound_Data_Types/target/debug/incremental/Part3_Compound_Data_Types-21ryevf60gh6o/s-hdqmy4ska3-11hq2i2-4amedi7arngvuk1ogf8tz4hrv/query-cache.bin",
+    "Projects/Programming Projects/Programming exercises/Rust Programming/Part4_Compound_Data_Types/target/debug/incremental/Part3_Compound_Data_Types-21ryevf60gh6o/s-hdqmy4ska3-11hq2i2-4amedi7arngvuk1ogf8tz4hrv/e2qcmweuqi4x3pl3sxqlip0hy.o",
+    "Projects/Programming Projects/Programming exercises/Rust Programming/Part4_Compound_Data_Types/target/debug/incremental/Part3_Compound_Data_Types-21ryevf60gh6o/s-hdqmy4ska3-11hq2i2-4amedi7arngvuk1ogf8tz4hrv/dep-graph.bin",
+    "Projects/Programming Projects/Programming exercises/Rust Programming/Part4_Compound_Data_Types/target/debug/incremental/Part3_Compound_Data_Types-21ryevf60gh6o/s-hdqmy4ska3-11hq2i2-4amedi7arngvuk1ogf8tz4hrv/5vse5033vpln4b7g0kw4y1q7j.o",
+    "Projects/Programming Projects/Programming exercises/Rust Programming/Part4_Compound_Data_Types/target/debug/incremental/Part3_Compound_Data_Types-21ryevf60gh6o/s-hdqmy4ska3-11hq2i2-4amedi7arngvuk1ogf8tz4hrv/4pup0di9lk7x9m6au3qmxa0u3.o",
+    "Projects/Programming Projects/Programming exercises/Rust Programming/Part4_Compound_Data_Types/target/debug/incremental/Part3_Compound_Data_Types-21ryevf60gh6o/s-hdqmy4ska3-11hq2i2-4amedi7arngvuk1ogf8tz4hrv/4gi6v4iejmt7zouxoceezftwy.o",
+    "Projects/Programming Projects/Programming exercises/Rust Programming/Part4_Compound_Data_Types/target/debug/incremental/Part3_Compound_Data_Types-21ryevf60gh6o/s-hdqmy4ska3-11hq2i2-4amedi7arngvuk1ogf8tz4hrv/38d0wnqal54t509mxo53iheez.o",
+    "Projects/Programming Projects/Programming exercises/Rust Programming/Part4_Compound_Data_Types/target/debug/incremental/Part3_Compound_Data_Types-21ryevf60gh6o/s-hdqmy4ska3-11hq2i2-4amedi7arngvuk1ogf8tz4hrv/1kxepkw166jlm2oeq5reger8o.o",
+    "Projects/Programming Projects/Programming exercises/Rust Programming/Part4_Compound_Data_Types/target/debug/incremental/Part3_Compound_Data_Types-21ryevf60gh6o/s-hdqmy4ska3-11hq2i2-4amedi7arngvuk1ogf8tz4hrv",
     "Projects/Programming Projects/Programming exercises/Rust Programming/readme.md",
-    "Projects/Programming Projects/Programming exercises/Rust Programming/Part2_Variables/target/debug/deps/Part2_Variables-436ef9d2803599d3.tmp72dbecf",
-    "Projects/Programming Projects/Programming exercises/Rust Programming/Part2_Variables/target/debug/incremental/Part2_Variables-33oi7w8osz0xe/s-hdqh4nj7gn-0cxpuwt-eivquan4fav3pnld3ih1cb0pt/work-products.bin",
-    "Projects/Programming Projects/Programming exercises/Rust Programming/Part2_Variables/target/debug/incremental/Part2_Variables-33oi7w8osz0xe/s-hdqh4nj7gn-0cxpuwt-eivquan4fav3pnld3ih1cb0pt/query-cache.bin",
-    "Projects/Programming Projects/Programming exercises/Rust Programming/Part2_Variables/target/debug/incremental/Part2_Variables-33oi7w8osz0xe/s-hdqh4nj7gn-0cxpuwt-eivquan4fav3pnld3ih1cb0pt/dep-graph.bin",
-    "Projects/Programming Projects/Programming exercises/Rust Programming/Part2_Variables/target/debug/incremental/Part2_Variables-33oi7w8osz0xe/s-hdqh4nj7gn-0cxpuwt-eivquan4fav3pnld3ih1cb0pt/ddtg906gi80xhbfr5nnb2dj78.o",
-    "Projects/Programming Projects/Programming exercises/Rust Programming/Part2_Variables/target/debug/incremental/Part2_Variables-33oi7w8osz0xe/s-hdqh4nj7gn-0cxpuwt-eivquan4fav3pnld3ih1cb0pt/cusldbyty9ui26u8ryd4e49wz.o",
-    "Projects/Programming Projects/Programming exercises/Rust Programming/Part2_Variables/target/debug/incremental/Part2_Variables-33oi7w8osz0xe/s-hdqh4nj7gn-0cxpuwt-eivquan4fav3pnld3ih1cb0pt/afkhavc0y10mh4cvvklbifjo9.o",
-    "Projects/Programming Projects/Programming exercises/Rust Programming/Part2_Variables/target/debug/incremental/Part2_Variables-33oi7w8osz0xe/s-hdqh4nj7gn-0cxpuwt-eivquan4fav3pnld3ih1cb0pt/8ft4wra6yta5uf9hjgly13xg4.o",
-    "Projects/Programming Projects/Programming exercises/Rust Programming/Part2_Variables/target/debug/incremental/Part2_Variables-33oi7w8osz0xe/s-hdqh4nj7gn-0cxpuwt-eivquan4fav3pnld3ih1cb0pt/47nkm7zezbbbq7hi046zwq9ye.o",
-    "Projects/Programming Projects/Programming exercises/Rust Programming/Part2_Variables/target/debug/incremental/Part2_Variables-33oi7w8osz0xe/s-hdqh4nj7gn-0cxpuwt-eivquan4fav3pnld3ih1cb0pt/0y4uziyqv2uuwhl23sey2zxx7.o",
     "Projects/Programming Projects/Programming exercises/Python Programming/readme.md",
     "README.md",
     "Projects/Programming Projects/LFS Gentoo/Linux From Scratch Project.md",
