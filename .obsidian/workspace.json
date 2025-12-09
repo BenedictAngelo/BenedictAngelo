@@ -22,90 +22,21 @@
             }
           },
           {
-            "id": "3d071d257201ddac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Programming Projects/LFS Gentoo/Linux From Scratch Project.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Linux From Scratch Project"
-            }
-          },
-          {
-            "id": "a9e659615a80b3b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Learning Windows OS.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Learning Windows OS"
-            }
-          },
-          {
-            "id": "9461b89f7b941f74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/TryHackMe Notes.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "TryHackMe Notes"
-            }
-          },
-          {
-            "id": "b4fa24bbe5ca6fbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Linux Cheat Sheet.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Linux Cheat Sheet"
-            }
-          },
-          {
-            "id": "73ef37eb1dfd504e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/IT Projects/Mini Homelab.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Mini Homelab"
-            }
-          },
-          {
             "id": "41b257b0e9aadb55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Programming Projects/LFS Gentoo/Linux From Scratch Project.md",
+                "file": "Projects/Programming Projects/Programming exercises/Rust Programming/readme.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Linux From Scratch Project"
+              "title": "readme"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,11 +92,11 @@
         ]
       },
       {
-        "id": "ca486bd967aa2716",
+        "id": "fcd0dbb24e7e9582",
         "type": "tabs",
         "children": [
           {
-            "id": "888a6b0de48874cf",
+            "id": "adf21911f1d06f02",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -311,9 +242,24 @@
       "graph:Open graph view": false
     }
   },
-  "active": "7ec270e22891c76c",
+  "active": "41b257b0e9aadb55",
   "lastOpenFiles": [
+    "Projects/Programming Projects/Programming exercises/Rust Programming/Part2_Variables/target/debug/deps/Part2_Variables-436ef9d2803599d3.tmp72dbecf",
+    "Projects/Programming Projects/Programming exercises/Rust Programming/Part2_Variables/target/debug/incremental/Part2_Variables-33oi7w8osz0xe/s-hdqh4nj7gn-0cxpuwt-eivquan4fav3pnld3ih1cb0pt/work-products.bin",
+    "Projects/Programming Projects/Programming exercises/Rust Programming/Part2_Variables/target/debug/incremental/Part2_Variables-33oi7w8osz0xe/s-hdqh4nj7gn-0cxpuwt-eivquan4fav3pnld3ih1cb0pt/query-cache.bin",
+    "Projects/Programming Projects/Programming exercises/Rust Programming/Part2_Variables/target/debug/incremental/Part2_Variables-33oi7w8osz0xe/s-hdqh4nj7gn-0cxpuwt-eivquan4fav3pnld3ih1cb0pt/dep-graph.bin",
+    "Projects/Programming Projects/Programming exercises/Rust Programming/Part2_Variables/target/debug/incremental/Part2_Variables-33oi7w8osz0xe/s-hdqh4nj7gn-0cxpuwt-eivquan4fav3pnld3ih1cb0pt/ddtg906gi80xhbfr5nnb2dj78.o",
+    "Projects/Programming Projects/Programming exercises/Rust Programming/Part2_Variables/target/debug/incremental/Part2_Variables-33oi7w8osz0xe/s-hdqh4nj7gn-0cxpuwt-eivquan4fav3pnld3ih1cb0pt/cusldbyty9ui26u8ryd4e49wz.o",
+    "Projects/Programming Projects/Programming exercises/Rust Programming/Part2_Variables/target/debug/incremental/Part2_Variables-33oi7w8osz0xe/s-hdqh4nj7gn-0cxpuwt-eivquan4fav3pnld3ih1cb0pt/afkhavc0y10mh4cvvklbifjo9.o",
+    "Projects/Programming Projects/Programming exercises/Rust Programming/Part2_Variables/target/debug/incremental/Part2_Variables-33oi7w8osz0xe/s-hdqh4nj7gn-0cxpuwt-eivquan4fav3pnld3ih1cb0pt/8ft4wra6yta5uf9hjgly13xg4.o",
+    "Projects/Programming Projects/Programming exercises/Rust Programming/Part2_Variables/target/debug/incremental/Part2_Variables-33oi7w8osz0xe/s-hdqh4nj7gn-0cxpuwt-eivquan4fav3pnld3ih1cb0pt/47nkm7zezbbbq7hi046zwq9ye.o",
+    "Projects/Programming Projects/Programming exercises/Rust Programming/Part2_Variables/target/debug/incremental/Part2_Variables-33oi7w8osz0xe/s-hdqh4nj7gn-0cxpuwt-eivquan4fav3pnld3ih1cb0pt/0y4uziyqv2uuwhl23sey2zxx7.o",
+    "Projects/Programming Projects/Programming exercises/Rust Programming/Part2_Variables/target/debug/incremental/Part2_Variables-33oi7w8osz0xe/s-hdqh4nj7gn-0cxpuwt-eivquan4fav3pnld3ih1cb0pt/08wuqtwgns6dheg6kh7oog5xs.o",
+    "Projects/Programming Projects/Programming exercises/Python Programming/readme.md",
+    "Projects/Programming Projects/Programming exercises/Rust Programming/readme.md",
+    "README.md",
     "Projects/Programming Projects/LFS Gentoo/Linux From Scratch Project.md",
+    "Projects/Programming Projects/readme.md",
     "Image dump/LFS dump/screenshot_08122025_111259.jpg",
     "Image dump/LFS dump/screenshot_08122025_110859.jpg",
     "Image dump/LFS dump/screenshot_08122025_110156.jpg",
@@ -323,27 +269,15 @@
     "Image dump/LFS dump/screenshot_08122025_101820.jpg",
     "Image dump/LFS dump/screenshot_08122025_100543.jpg",
     "Image dump/LFS dump/screenshot_08122025_100145.jpg",
-    "README.md",
     "Untitled.md",
     "Notes/TryHackMe Notes.md",
     "Notes/Learning Windows OS.md",
-    "Projects/Programming Projects/Demo/vendas_massivas.csv",
-    "Projects/Programming Projects/Demo/sample.csv",
     "Image dump/LFS dump/screenshot_27112025_115925.jpg",
-    "Projects/Programming Projects/LFS Gentoo",
-    "Image dump/CV.pdf",
     "Projects/Homelab Projects/Mini Homelab.md",
     "Notes/Linux Cheat Sheet.md",
-    "Image dump/LFS dump",
     "Projects/TryHackMe/project template.md",
     "Projects/Programming Projects/Linux Antivirus/readme.md",
     "Projects/Programming Projects/Login Analyzer/readme.md",
-    "Image dump/Linux Antivirus dump",
-    "Projects/Programming Projects/Linux Antivirus",
-    "Projects/Coding Projects/Python project1.py",
-    "Projects/Programming Projects/Login Analyzer/suspicious.sql",
-    "Projects/Programming Projects/Login Analyzer/suspicious.txt",
-    "Projects/Programming Projects/readme.md",
     "Image dump/Mini Home Lab/readme.md",
     "Projects/TryHackMe/Learning-Path-Labs/readme.md",
     "Projects/readme.md",
@@ -355,8 +289,6 @@
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md"
+    "copilot/copilot-custom-prompts/Make longer.md"
   ]
 }
