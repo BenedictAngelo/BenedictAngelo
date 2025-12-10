@@ -32,6 +32,6 @@ fn main() {
     println!("Is it raining ?: {}", is_raining);
     // =========================================
     // Character Type - char
-    let letter: char = 'a';
+    let letter: char = 'a'; // Char must be encased in ''
     println!("First Letter of the alphabet is: {}", letter);
 }

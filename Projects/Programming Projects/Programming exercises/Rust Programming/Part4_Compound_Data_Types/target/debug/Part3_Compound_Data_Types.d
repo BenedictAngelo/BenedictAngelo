@@ -1,1 +1,0 @@
-/home/angelo/Github\ clones/BenedictAngelo/Projects/Programming\ Projects/Programming\ exercises/Rust\ Programming/Part4_Compound_Data_Types/target/debug/Part3_Compound_Data_Types: /home/angelo/Github\ clones/BenedictAngelo/Projects/Programming\ Projects/Programming\ exercises/Rust\ Programming/Part4_Compound_Data_Types/src/main.rs
