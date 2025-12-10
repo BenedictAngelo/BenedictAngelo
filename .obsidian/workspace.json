@@ -35,8 +35,7 @@
               "title": "readme"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,8 +242,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b68ee52bf2eae2ed",
+  "active": "7ec270e22891c76c",
   "lastOpenFiles": [
+    "Projects/Programming Projects/Programming exercises/HTML CSS Programming/readme.md",
     "README.md",
     "Projects/Programming Projects/Website (WIP)/readme.md",
     "Projects/Programming Projects/Programming exercises/Rust Programming/readme.md",
@@ -289,7 +289,6 @@
     "Image dump/readme.md",
     "Excalidraw/Drawing 2025-11-16 13.19.37.excalidraw.md",
     "Terminal Cheat Sheet.md",
-    "Terminal Cheat Sheet/Untitled.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md"
+    "Terminal Cheat Sheet/Untitled.md"
   ]
 }

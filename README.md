@@ -125,6 +125,15 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 					</ul>
 				<div>
 			</details>
+			<details>
+			<summary><h3>HTML CSS programming</h3></summary>
+				<div>
+					<ul>
+						<li><a href="Projects/Programming Projects/Programming exercises/HTML CSS Programming/Part1_Basics/">HTML basics</a></li>
+						<li><a href="Projects/Programming Projects/Programming exercises/HTML CSS Programming/Part2_Basics/">HTML basics part 2</a></li>
+					</ul>
+				<div>
+			</details>
 	    </ul>
 	</div>
 </details>
