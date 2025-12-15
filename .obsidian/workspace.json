@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Part 1 - Network Basics"
             }
-          },
-          {
-            "id": "b68ee52bf2eae2ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Programming Projects/Programming exercises/HTML CSS Programming/readme.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "readme"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 312.5,
+    "collapsed": true
   },
   "right": {
     "id": "4d289702892f145b",
@@ -243,13 +229,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b68ee52bf2eae2ed",
+  "active": "7ec270e22891c76c",
   "lastOpenFiles": [
-    "README.md",
+    "Notes/CCNA Notes/Untitled.md",
     "Notes/CCNA Notes/Part 1 - Network Basics.md",
+    "Projects/Programming Projects/Programming exercises/HTML CSS Programming/readme.md",
+    "README.md",
     "Notes/CCNA Notes/readme.md",
     "Notes/readme.md",
-    "Projects/Programming Projects/Programming exercises/HTML CSS Programming/readme.md",
     "Notes/CCNA Notes",
     "Image dump/CCNA_notesdump/screenshot_15122025_122514.jpg",
     "Image dump/CCNA_notesdump/screenshot_15122025_122306.jpg",
@@ -289,7 +276,6 @@
     "Image dump/Mini Home Lab/readme.md",
     "Projects/TryHackMe/Learning-Path-Labs/readme.md",
     "Projects/readme.md",
-    "Projects/TryHackMe/CTF/readme.md",
-    "Image dump/readme.md"
+    "Projects/TryHackMe/CTF/readme.md"
   ]
 }

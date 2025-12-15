@@ -9,10 +9,13 @@
 
 **End host** - Are the device that is the last receiving end of the data in a network
 
-This is a Local Area Network:
-![](../../Image%20dump/CCNA_notesdump/screenshot_15122025_120801.jpg)
+---
+
+
 
 **Local Area Network (LAN)** - Is a network composed of local connected device to the switch
+
+![](../../Image%20dump/CCNA_notesdump/screenshot_15122025_120801.jpg)
 
 **Switches** - Is a device used to connect multiple end point devices on a local area
 - Has many network interfaces/ports for end hosts to connect to. ==usually 24+==
