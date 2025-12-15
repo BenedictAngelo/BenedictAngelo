@@ -111,6 +111,8 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 			<summary><h3>Python programming</h3></summary>
 				<div>
 					<ul>
+						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Short_Quiz.py">Creating a Short Quiz</a></li>
+						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Timer.py">Creating a simple timer</a></li>
 						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/While_loop.py">'While' Loops</a></li>
 						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/cardnumber_reader.py">Card number reader</a></li>
 						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/user_input_exercise.py">User input exercise</a></li>
@@ -122,6 +124,10 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Part5_Specifiers.py">Learning specifiers</a></li>
 						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Part6_ForLoops.py">Learning 'For' loops</a></li>
 						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Part7_NestedLoops.py">Learning Nested loops</a></li>
+						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Part8_collection.py">Learning Collections</a></li>
+						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Part9_2Dlist.py">Learning 2D Lists</a></li>
+						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Part10_Dictionary.py">Learning Dictionaries</a></li>
+						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Part11_Random.py">Learning Random Import</a></li>
 					</ul>
 				<div>
 			</details>
