@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Projects/Programming Projects/Programming exercises/HTML CSS Programming/readme.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "readme"
             }
           }
         ],
@@ -245,10 +245,10 @@
   },
   "active": "b68ee52bf2eae2ed",
   "lastOpenFiles": [
+    "README.md",
     "Notes/CCNA Notes/Part 1 - Network Basics.md",
     "Notes/CCNA Notes/readme.md",
     "Notes/readme.md",
-    "README.md",
     "Projects/Programming Projects/Programming exercises/HTML CSS Programming/readme.md",
     "Notes/CCNA Notes",
     "Image dump/CCNA_notesdump/screenshot_15122025_122514.jpg",
