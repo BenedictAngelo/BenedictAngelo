@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Notes/CCNA Notes/Part 1 - Network Basics.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Part 1 - Network Basics"
             }
           },
           {
@@ -110,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 312.5,
+    "collapsed": true
   },
   "right": {
     "id": "4d289702892f145b",
@@ -244,8 +245,19 @@
   },
   "active": "7ec270e22891c76c",
   "lastOpenFiles": [
-    "Projects/Programming Projects/Programming exercises/HTML CSS Programming/readme.md",
+    "Notes/CCNA Notes/Untitled.md",
+    "Notes/CCNA Notes/Part 1 - Network Basics.md",
+    "Notes/CCNA Notes",
+    "Image dump/CCNA_notesdump/screenshot_15122025_122514.jpg",
+    "Image dump/CCNA_notesdump/screenshot_15122025_122306.jpg",
+    "Image dump/CCNA_notesdump/screenshot_15122025_121803.jpg",
+    "Image dump/CCNA_notesdump/screenshot_15122025_121626.jpg",
+    "Image dump/CCNA_notesdump/screenshot_15122025_121447.jpg",
+    "Image dump/CCNA_notesdump/screenshot_15122025_120801.jpg",
+    "Image dump/CCNA_notesdump",
+    "Notes/readme.md",
     "README.md",
+    "Projects/Programming Projects/Programming exercises/HTML CSS Programming/readme.md",
     "Projects/Programming Projects/Website (WIP)/readme.md",
     "Projects/Programming Projects/Programming exercises/Rust Programming/readme.md",
     "Projects/Programming Projects/Website (WIP)/Plan_mainpage.md",
@@ -260,21 +272,13 @@
     "Projects/Programming Projects/Programming exercises/HTML CSS Programming/Part2_Basics/index.html",
     "Projects/Programming Projects/Programming exercises/HTML CSS Programming/Part2_Basics",
     "Projects/Programming Projects/Programming exercises/HTML CSS Programming/Part1_Basics/Part2_Basics",
-    "Projects/Programming Projects/Programming exercises/HTML CSS Programming/Part1_Basics/index.html~",
     "Projects/Programming Projects/Programming exercises/HTML CSS Programming/Part1_Basics/images/dog.jpg",
-    "Projects/Programming Projects/Programming exercises/HTML CSS Programming/Part1_Basics/images",
     "Projects/Programming Projects/Programming exercises/Python Programming/readme.md",
     "Projects/Programming Projects/LFS Gentoo/Linux From Scratch Project.md",
     "Projects/Programming Projects/readme.md",
     "Image dump/LFS dump/screenshot_08122025_111259.jpg",
     "Image dump/LFS dump/screenshot_08122025_110859.jpg",
     "Image dump/LFS dump/screenshot_08122025_110156.jpg",
-    "Image dump/LFS dump/screenshot_08122025_105754.jpg",
-    "Image dump/LFS dump/screenshot_08122025_104429.jpg",
-    "Image dump/LFS dump/screenshot_08122025_102330.jpg",
-    "Image dump/LFS dump/screenshot_08122025_101820.jpg",
-    "Image dump/LFS dump/screenshot_08122025_100543.jpg",
-    "Image dump/LFS dump/screenshot_08122025_100145.jpg",
     "Untitled.md",
     "Notes/TryHackMe Notes.md",
     "Notes/Learning Windows OS.md",
@@ -286,9 +290,6 @@
     "Projects/TryHackMe/Learning-Path-Labs/readme.md",
     "Projects/readme.md",
     "Projects/TryHackMe/CTF/readme.md",
-    "Image dump/readme.md",
-    "Excalidraw/Drawing 2025-11-16 13.19.37.excalidraw.md",
-    "Terminal Cheat Sheet.md",
-    "Terminal Cheat Sheet/Untitled.md"
+    "Image dump/readme.md"
   ]
 }
