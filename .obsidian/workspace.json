@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Programming Projects/Programming exercises/HTML CSS Programming/readme.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5,
-    "collapsed": true
+    "width": 312.5
   },
   "right": {
     "id": "4d289702892f145b",
@@ -243,10 +243,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "7ec270e22891c76c",
+  "active": "b68ee52bf2eae2ed",
   "lastOpenFiles": [
-    "Notes/CCNA Notes/Untitled.md",
     "Notes/CCNA Notes/Part 1 - Network Basics.md",
+    "Notes/CCNA Notes/readme.md",
+    "Notes/readme.md",
+    "README.md",
+    "Projects/Programming Projects/Programming exercises/HTML CSS Programming/readme.md",
     "Notes/CCNA Notes",
     "Image dump/CCNA_notesdump/screenshot_15122025_122514.jpg",
     "Image dump/CCNA_notesdump/screenshot_15122025_122306.jpg",
@@ -255,9 +258,6 @@
     "Image dump/CCNA_notesdump/screenshot_15122025_121447.jpg",
     "Image dump/CCNA_notesdump/screenshot_15122025_120801.jpg",
     "Image dump/CCNA_notesdump",
-    "Notes/readme.md",
-    "README.md",
-    "Projects/Programming Projects/Programming exercises/HTML CSS Programming/readme.md",
     "Projects/Programming Projects/Website (WIP)/readme.md",
     "Projects/Programming Projects/Programming exercises/Rust Programming/readme.md",
     "Projects/Programming Projects/Website (WIP)/Plan_mainpage.md",
