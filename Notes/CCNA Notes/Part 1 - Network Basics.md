@@ -27,9 +27,11 @@
 ---
 
 **Routers** - a device that switches attaches to, to connect to the internet
+
 ![](../../Image%20dump/CCNA_notesdump/screenshot_15122025_121447.jpg)
 
 ![](../../Image%20dump/CCNA_notesdump/screenshot_15122025_121626.jpg)
+
 - ==ISR 1000== and ==ISR 4000== has their network interfaces at the back while ==ISR 900== has it on front
 - Routers have ==lesser network interfaces than switches==.
 - Are used to provide connectivity between LANs and internet
