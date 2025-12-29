@@ -47,3 +47,27 @@
 - May be temporary
 - Prevent the exploitation of a weakness
 
+### Directive control types
+- Direct a subject towards security compliance
+- A relatively weak security control
+- Post a sign "Authorized personnel only"
+---
+
+![](attachments/Pasted%20image%2020251229134152.png)
+
+---
+
+# CIA Triad
+
+
+## Confidentiality
+- Prevents disclosure of information to unauthorized individuals
+- Encryption
+- Access controls
+- Two factor authentication
+
+## Integrity
+- Assets cant modified or altered
+
+## Availability
+- Systems and networks must be up and running
