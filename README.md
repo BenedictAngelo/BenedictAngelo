@@ -18,14 +18,16 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 ---
 ## Skills
 
-| Skill                               | Associated Project                                                                                                                                                   |
-| ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Makrdowns and structured documentation   | My whole GitHub                                                                                                                                                      |
-| Setting up a small virtual home lab | <a href="Projects/IT Projects/Mini Homelab.md">Virtual Mini Home Lab</a>                                                                                             |
-| Data Analyzation and Automation     | <a href="Projects/Coding Projects/Login Analyzer/readme.md">Login Analyzer Project</a>                                                                         |
-| Python and SQL automation           | <a href="Projects/Coding Projects/Login Analyzer/readme.md">Login Analyzer Project</a>                                                                         |
-| Bash(shell) and Scripting           | <a href="Projects/IT Projects/Mini Homelab.md">Virtual Mini Home Lab</a><br><a href="Projects/Coding Projects/Login Analyzer/readme.md">Login Analyzer Project</a><br><a href="Projects/Coding Projects/Linux Antivirus/readme.md">Automated Linux Antivirus Project</a>|
-| Automated Linux Antivirus Scanner   | <a href="Projects/Coding Projects/Linux Antivirus/readme.md">Automated Linux Antivirus Project</a>                                                                   |
+| Skill                                  | Associated Project                                                                                                                                                                                                                                                       |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Makrdowns and structured documentation | My whole GitHub                                                                                                                                                                                                                                                          |
+| Setting up a small virtual home lab    | <a href="Projects/Homelab Projects/Mini Homelab.md">Virtual Mini Home Lab</a>                                                                                                                                                                                                 |
+| Data Analyzation and Automation        | <a href="Projects/Programming Projects/Login Analyzer/readme.md">Login Analyzer Project</a>                                                                                                                                                                                   |
+| Python and SQL automation              | <a href="Projects/Programming Projects/Login Analyzer/readme.md">Login Analyzer Project</a><br><a href="Projects/Programming Projects/Password Generator/Password_Generator.py">Automated Password Generator/Manager</a>                                                                                                                                                                                   |
+| Bash(shell) and Scripting              | <a href="Projects/Homelab Projects/Mini Homelab.md">Virtual Mini Home Lab</a><br><a href="Projects/Coding Projects/Login Analyzer/readme.md">Login Analyzer Project</a><br><a href="Projects/Coding Projects/Linux Antivirus/readme.md">Automated Linux Antivirus Project</a> |
+| Automated Linux Antivirus Scanner      | <a href="Projects/Coding Projects/Linux Antivirus/readme.md">Automated Linux Antivirus Project</a>                                                                                                                                                                       |
+| Password generator/manager             | <a href="Projects/Programming Projects/Password Generator/Password_Generator.py">Automated Password Generator/Manager</a>                                                                                                                                                                                                                                                                         |
+|                                        |                                                                                                                                                                                                                                                                          |
 
 ---
 ## Tools
@@ -85,7 +87,7 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 <summary><h2>Homelab Projects</h2></summary>
 <div>
 <ul>
-	<li><a href="Projects/IT Projects/Mini Homelab.md">Virtual Mini Homelab</a></li>
+	<li><a href="Projects/Homelab Projects/Mini Homelab.md">Virtual Mini Homelab</a></li>
 </ul>
 </div>
 </details>
@@ -128,6 +130,12 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Part9_2Dlist.py">Learning 2D Lists</a></li>
 						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Part10_Dictionary.py">Learning Dictionaries</a></li>
 						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Part11_Random.py">Learning Random Import</a></li>
+						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Part12_Functions.py">Learning Functionst</a></li>
+						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Part13_Return.py">Learning return Function</a></li>
+						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Part14_Keywords.py">Learning Keywords</a></li>
+						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Part15_Args.py">Learning Arguements</a></li>
+						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Part16_Iterables.py">Learning Iteration</a></li>
+						<li><a href="Projects/Programming Projects/Programming exercises/Python Programming/Part17_Listcompre.py">Learning List comprehension</a></li>
 					</ul>
 				<div>
 			</details>
