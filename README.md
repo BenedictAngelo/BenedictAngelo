@@ -99,6 +99,7 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 			<li><a href="Projects/Programming Projects/Login Analyzer/readme.md">Login Analyzer Project</a></li>
 			<li><a href="Projects/Programming Projects/Linux Antivirus/readme.md">Automated Linux Antivirus Project</a></li>
 			<li><a href="Projects/Programming Projects/LFS Gentoo/Linux From Scratch Project.md">Linux from Scratch Project (In-Progress)</a></li>
+			<li><a href="Projects/Programming Projects/Password Generator/Password_Generator.py">Password Generator/Manager</a></li>
 			<details>
 			<summary><h3>Rust programming</h3></summary>
 				<div>
