@@ -62,15 +62,36 @@
 
 ## Confidentiality
 - Prevents disclosure of information to unauthorized individuals
-- Encryption
-- Access controls
-- Two factor authentication
+- **Encryption**
+- **Access** controls
+- **Two** factor authentication
 
 ## Integrity
-- Assets cant modified or altered
+- Assets cant modified or altered, data is transferred as intended
+-  **Hashing**
+- - Map data of an arbitrary length to data of a fixed length
+- **Digital** signatures
+- - Mathematical scheme to verify the integrity of data
+- **Certificates**
+- - Combine with a digital signature to verify an individual
+- **Non-repudiation**
+- - Provides proof of integrity, can be asserted to be genuine
 
 ## Availability
-- Systems and networks must be up and running
+- Systems and networks must be up and running and accessible by authorized users
+- - **Redundancy**
+- - Build services that will always be available
+- **Fault tolerance**
+- - System will continue to run, even when a failure occurs
+- **Patching**
+- - Stability
+- - Close security holes
+
+---
+
+# Non-repudiation
+
+
 
 ---
 #### Back to [README](../../README.md) main page
