@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 312.5,
+    "collapsed": true
   },
   "right": {
     "id": "4d289702892f145b",
@@ -228,6 +229,7 @@
   },
   "active": "02d547916e98f198",
   "lastOpenFiles": [
+    "Image dump/CV-Benedict-Angelo-Bumatay.pdf",
     "Projects/readme.md",
     "Notes/Security+ Notes/Part1_Basics.md",
     "Notes/CCNA Notes/Untitled.md",
@@ -272,7 +274,6 @@
     "Notes/Learning Windows OS.md",
     "Projects/Homelab Projects/Mini Homelab.md",
     "Notes/Linux Cheat Sheet.md",
-    "Projects/TryHackMe/project template.md",
-    "Projects/Programming Projects/Linux Antivirus/readme.md"
+    "Projects/TryHackMe/project template.md"
   ]
 }

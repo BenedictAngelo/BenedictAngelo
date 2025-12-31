@@ -1,13 +1,11 @@
 # Hello, I'm Benedict Angelo A. Bumatay
 
-<a href="https://www.linkedin.com/in/benedict-angelo-a-bumatay/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://tryhackme.com/p/benedictangeloaguirre2" target="_blank">
-</a>
-
+<a href="https://www.linkedin.com/in/benedict-angelo-a-bumatay/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I am a Bachelor of Science Electronics Engineering Graduate at Rizal Technological University, with a growing passion and actively learning Cybersecurity.
 
-<a href="Image dump/CV.pdf">Click to view my CV here</a>
+<a href="Image dump/CV-Benedict-Angelo-Bumatay.pdf">Click to view my CV here</a>
 
 ---
 ## Objective
