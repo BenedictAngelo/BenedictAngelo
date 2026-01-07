@@ -57,13 +57,13 @@ def email_confirmation():
 
 
 with open("/home/angelo/Documents/passwords.txt","a") as f:
-    f.write("============================")
+    f.write("=================================")
     f.write("\n")
-    f.write(password())
+    f.write(f"Password: {password()}")
     f.write("\n")
     pass_confirmation()
-    f.write(email_confirmation())
+    f.write(f"Email: {email_confirmation()}")
     f.write("\n")
-    f.write("============================")
+    f.write("=================================")
     f.write("\n")
 
