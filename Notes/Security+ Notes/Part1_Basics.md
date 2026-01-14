@@ -88,10 +88,4 @@
 - - Close security holes
 
 ---
-
-# Non-repudiation
-
-
-
----
 #### Back to [README](../../README.md) main page

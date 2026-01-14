@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Security+ Notes/Part1_Basics.md",
+                "file": "Notes/CCNA Notes/Part 2 - Interfaces and cables.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Part1_Basics"
+              "title": "Part 2 - Interfaces and cables"
             }
           }
         ]
@@ -210,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 306.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,13 +228,22 @@
       "graph:Open graph view": false
     }
   },
-  "active": "44bb9446e5fea5b8",
+  "active": "454cffe8d4092dff",
   "lastOpenFiles": [
+    "Image dump/CCNA_notesdump/screenshot_2026-01-13_13-34-27.png",
+    "Image dump/CCNA_notesdump/screenshot_2026-01-13_13-32-17.png",
+    "Image dump/CCNA_notesdump/screenshot_2026-01-13_13-28-37.png",
+    "Image dump/CCNA_notesdump/screenshot_2026-01-13_13-20-12.png",
+    "Image dump/CCNA_notesdump/screenshot_2026-01-13_13-17-58.png",
+    "Notes/CCNA Notes/attachments/Pasted image 20260113131633.png",
+    "Notes/CCNA Notes/attachments",
+    "Image dump/CCNA_notesdump/screenshot_2026-01-13_13-16-15.png",
+    "Notes/CCNA Notes/Part 1 - Network Basics.md",
+    "Notes/CCNA Notes/Part 2 - Interfaces and cables.md",
+    "Notes/Security+ Notes/Part1_Basics.md",
     "README.md",
     "Image dump/CV-Benedict-Angelo-Bumatay.pdf",
     "Projects/readme.md",
-    "Notes/Security+ Notes/Part1_Basics.md",
-    "Notes/CCNA Notes/Untitled.md",
     "Notes/Security+ Notes/readme.md",
     "Notes/CCNA Notes/readme.md",
     "Projects/Programming Projects/Password Generator/readme.md",
@@ -245,16 +255,11 @@
     "Image dump/Securityplus/screenshot_2025-12-29_13-40-03.png",
     "Image dump/Securityplus",
     "Notes/Security+ Notes",
-    "Notes/CCNA Notes/Part 1 - Network Basics.md",
     "Projects/Programming Projects/Programming exercises/HTML CSS Programming/readme.md",
     "Notes/readme.md",
     "Notes/CCNA Notes",
     "Image dump/CCNA_notesdump/screenshot_15122025_122514.jpg",
     "Image dump/CCNA_notesdump/screenshot_15122025_122306.jpg",
-    "Image dump/CCNA_notesdump/screenshot_15122025_121803.jpg",
-    "Image dump/CCNA_notesdump/screenshot_15122025_121626.jpg",
-    "Image dump/CCNA_notesdump/screenshot_15122025_121447.jpg",
-    "Image dump/CCNA_notesdump/screenshot_15122025_120801.jpg",
     "Image dump/CCNA_notesdump",
     "Projects/Programming Projects/Website (WIP)/readme.md",
     "Projects/Programming Projects/Programming exercises/Rust Programming/readme.md",
@@ -263,11 +268,8 @@
     "Excalidraw",
     "Projects/Programming Projects/Website (WIP)",
     "Projects/Programming Projects/Untitled.md",
-    "Projects/Programming Projects/Programming exercises/HTML CSS Programming/Part2_Basics/index.html~",
-    "Projects/Programming Projects/Programming exercises/HTML CSS Programming/Part1_Basics/images/dog.jpg",
     "Projects/Programming Projects/Programming exercises/Python Programming/readme.md",
     "Projects/Programming Projects/LFS Gentoo/Linux From Scratch Project.md",
-    "Image dump/LFS dump/screenshot_08122025_111259.jpg",
     "Untitled.md",
     "Notes/TryHackMe Notes.md",
     "Notes/Learning Windows OS.md",
