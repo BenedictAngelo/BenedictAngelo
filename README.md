@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/benedict-angelo-a-bumatay/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a Bachelor of Science Electronics Engineering Graduate at Rizal Technological University, with a growing passion and actively learning Cybersecurity.
+I am a Bachelor of Science Electronics Engineering Graduate at Rizal Technological University, with a growing passion and actively learning Network and Programming.
 
 <a href="Image dump/CV-Benedict-Angelo-Bumatay.pdf">Click to view my CV here</a>
 
@@ -11,7 +11,7 @@ I am a Bachelor of Science Electronics Engineering Graduate at Rizal Technologic
 ## Objective
 
 
-My journey in computer science has led me to develop a passion for Cybersecurity, and I am now eager to commit and build my career into this field, now specifically aiming to join a Security Operations Center (SOC) as an Analyst or as a Penetration Tester.
+My journey in Post Graduation has led me to develop a passion for Network and DevOps, and I am now eager to commit and build my career into this field, now specifically aiming to join a Electronics Engineering, IT, Cloud, Cybersec, DevOps, Full Stack, Systems or Infrastructure engineering roles
 
 ---
 ## Skills
@@ -37,12 +37,15 @@ My journey in computer science has led me to develop a passion for Cybersecurity
     <img src="https://img.shields.io/badge/-Parrot%20OS-15E0A5?&style=for-the-badge&logo=parrotsecurity&logoColor=white" />
     <img src="https://img.shields.io/badge/-Linux%20Mint-87CF3E?&style=for-the-badge&logo=linuxmint&logoColor=white" />
     <img src="https://img.shields.io/badge/-Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> </div>
+    <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </div>
 
 ### Virtual Machines
 <div>
     <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
 </div>
 
 ### Programming / Scripting
@@ -54,6 +57,9 @@ My journey in computer science has led me to develop a passion for Cybersecurity
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/-SQL-FF0000?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  
 </div>
 
 ### Editors / Tools
@@ -64,8 +70,8 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 	<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 	 <img src="https://img.shields.io/badge/-Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" /> 
 	 <img src="https://img.shields.io/badge/-Git-FA7343?style=for-the-badge&logo=git&logoColor=white" />
-	  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> 
-	</div>
+	<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> 
+</div>
 
 ---
 ## Certifications

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/CCNA Notes/Part 2 - Interfaces and cables.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Part 2 - Interfaces and cables"
+              "title": "README"
             }
           }
         ]
@@ -210,8 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
-    "collapsed": true
+    "width": 306.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,6 +229,7 @@
   },
   "active": "454cffe8d4092dff",
   "lastOpenFiles": [
+    "Notes/CCNA Notes/Part 2 - Interfaces and cables.md",
     "Image dump/CCNA_notesdump/screenshot_2026-01-13_13-34-27.png",
     "Image dump/CCNA_notesdump/screenshot_2026-01-13_13-32-17.png",
     "Image dump/CCNA_notesdump/screenshot_2026-01-13_13-28-37.png",
@@ -239,7 +239,6 @@
     "Notes/CCNA Notes/attachments",
     "Image dump/CCNA_notesdump/screenshot_2026-01-13_13-16-15.png",
     "Notes/CCNA Notes/Part 1 - Network Basics.md",
-    "Notes/CCNA Notes/Part 2 - Interfaces and cables.md",
     "Notes/Security+ Notes/Part1_Basics.md",
     "README.md",
     "Image dump/CV-Benedict-Angelo-Bumatay.pdf",
@@ -259,7 +258,6 @@
     "Notes/readme.md",
     "Notes/CCNA Notes",
     "Image dump/CCNA_notesdump/screenshot_15122025_122514.jpg",
-    "Image dump/CCNA_notesdump/screenshot_15122025_122306.jpg",
     "Image dump/CCNA_notesdump",
     "Projects/Programming Projects/Website (WIP)/readme.md",
     "Projects/Programming Projects/Programming exercises/Rust Programming/readme.md",
