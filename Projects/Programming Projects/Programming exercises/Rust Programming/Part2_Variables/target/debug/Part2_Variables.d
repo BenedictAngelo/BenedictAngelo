@@ -1,1 +1,0 @@
-/home/angelo/Github\ clones/BenedictAngelo/Projects/Programming\ Projects/Programming\ exercises/Rust\ Programming/Part2_Variables/target/debug/Part2_Variables: /home/angelo/Github\ clones/BenedictAngelo/Projects/Programming\ Projects/Programming\ exercises/Rust\ Programming/Part2_Variables/src/main.rs
