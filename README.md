@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Benedict Angelo A. Bumatay
 
-Electronics Engineering graduate with hands-on experience in **network operations, cybersecurity, and systems engineering**.  
+Electronics Engineering graduate with hands-on experience in **network operations, cybersecurity, and embedded systems engineering**.  
 I enjoy building reliable systems, automating workflows, and learning how infrastructure works end-to-end.
 
 📍 Abu Dhabi, UAE
@@ -39,7 +39,7 @@ I enjoy building reliable systems, automating workflows, and learning how infras
 ---
 
 ### 🔥 Featured Projects
--  **[React Website Portfolio Website](https://github.com/BenedictAngelo/BenedictAngelo.github.io)**  
+-  **[React Portfolio Website](https://github.com/BenedictAngelo/BenedictAngelo.github.io)**  
 *My first React made website for personal portfolio.*
 
 -  **[Login Analyzer](https://github.com/BenedictAngelo/Login-Analyzer)**  
