@@ -42,12 +42,12 @@ I enjoy building reliable systems, automating workflows, and learning how infras
 -  **[React Portfolio Website](https://github.com/BenedictAngelo/BenedictAngelo.github.io)**  
 *My first React made website for personal portfolio.*
 
--  **[Login Analyzer](https://github.com/BenedictAngelo/Login-Analyzer)**  
-*Python script for scanning suspicious logins on a fictional database*
+-  **[Python scripts for everyday life](https://github.com/BenedictAngelo/py-scripts-for-life)**  
+*A python CLI app containing multiple scripts for simple everyday tasks*
 
 
--  **[Simple Password Generator](https://github.com/BenedictAngelo/Simple-Password-Generator)**  
-*Simple small python script for password generation and manager*
+-  **[Static Website Portfolio (REDACTED)](https://github.com/BenedictAngelo/static-website)**  
+*A simple static website created in HTML, CSS, JavaScript for portfolio*
 
 ---
 
