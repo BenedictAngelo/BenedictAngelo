@@ -40,7 +40,7 @@ I enjoy building reliable systems, automating workflows, and learning how infras
 
 ### 🔥 Featured Projects
 -  **[React Portfolio Website](https://github.com/BenedictAngelo/BenedictAngelo.github.io)**  
-*My first React made website for personal portfolio.*
+*React website made in Next.Js for personal portfolio.*
 
 -  **[Python scripts for everyday life](https://github.com/BenedictAngelo/py-scripts-for-life)**  
 *A python CLI app containing multiple scripts for simple everyday tasks*
@@ -52,4 +52,4 @@ I enjoy building reliable systems, automating workflows, and learning how infras
 ---
 
 🔗 [Website](https://benedictangelo.github.io)  
-💼 [LinkedIn](https://linkedin.com/in/benedictangelo)  
+💼 [LinkedIn](https://linkedin.com/in/benedictangelo)
