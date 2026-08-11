@@ -116,3 +116,7 @@ The goal is simple: **understand the fundamentals deeply rather than just collec
 
 📍 Abu Dhabi, UAE  
 📧 BenedictAngelo@protonmail.com
+
+## 📄 Curriculum Vitae
+
+📑 [**See my CV**](files/CV_Benedict_Angelo_Bumatay.pdf)
